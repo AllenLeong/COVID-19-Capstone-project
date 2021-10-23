@@ -1,0 +1,440 @@
+,Time,Model_path,Algorithm,Loss,Validation Loss,Country,Features
+0,20211011 19-54,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 19-54LSTM,LSTM,0.034485787,0.018532446,Brazil,P
+1,20211011 19-54,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 19-54Attention,Attention,0.016619671,0.046945117,Brazil,P
+2,20211011 19-54,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 19-54C-LSTM,C-LSTM,0.01582046,0.065679021,Brazil,P
+3,20211011 20-14,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 20-14LSTM,LSTM,0.030622724,0.02493679,Brazil,PCS
+4,20211011 20-14,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 20-14Attention,Attention,0.015635677,0.065779388,Brazil,PCS
+5,20211011 20-14,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 20-14C-LSTM,C-LSTM,0.14752692,0.122146569,Brazil,PCS
+6,20211011 23-22,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-22LSTM,LSTM,0.037894115,0.019877827,Brazil,P
+7,20211011 23-22,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-22Attention,Attention,0.015729545,0.051189449,Brazil,P
+8,20211011 23-22,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-22C-LSTM,C-LSTM,0.015770765,0.061321151,Brazil,P
+9,20211011 23-35,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-35LSTM,LSTM,0.016844282,0.070546664,Brazil,PC
+10,20211011 23-35,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-35Attention,Attention,0.015564309,0.056192685,Brazil,PC
+11,20211011 23-35,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-35C-LSTM,C-LSTM,0.015960589,0.059740901,Brazil,PC
+12,20211011 23-44,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-44LSTM,LSTM,0.029024145,0.019417046,Brazil,PCS
+13,20211011 23-44,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-44Attention,Attention,0.016006222,0.070434161,Brazil,PCS
+14,20211011 23-44,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-44C-LSTM,C-LSTM,0.008726377,0.28594768,Brazil,PCS
+15,20211012 02-51,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 02-51LSTM,LSTM,0.030060502,0.018871197,Brazil,P
+16,20211012 02-51,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 02-51Attention,Attention,0.016217591,0.064469971,Brazil,P
+17,20211012 02-51,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 02-51C-LSTM,C-LSTM,0.016558995,0.066752814,Brazil,P
+18,20211012 03-03,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 03-03LSTM,LSTM,0.031814847,0.021478416,Brazil,PC
+19,20211012 03-03,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 03-03Attention,Attention,0.015975662,0.05686089,Brazil,PC
+20,20211012 03-03,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 03-03C-LSTM,C-LSTM,0.016050056,0.070727013,Brazil,PC
+21,20211012 21-31,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 21-31LSTM,LSTM,0.023030106,0.024919247,Brazil,P
+22,20211012 21-31,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 21-31Attention,Attention,0.016043758,0.060645528,Brazil,P
+23,20211012 21-31,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 21-31C-LSTM,C-LSTM,0.016054105,0.060046457,Brazil,P
+24,20211012 21-42,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 21-42LSTM,LSTM,0.039765768,0.020253815,Brazil,PC
+25,20211012 21-42,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 21-42Attention,Attention,0.015678845,0.076269098,Brazil,PC
+26,20211012 21-42,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 21-42C-LSTM,C-LSTM,0.01575944,0.080800869,Brazil,PC
+27,20211012 21-54,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 21-54LSTM,LSTM,0.023896739,0.026313536,Brazil,PCS
+28,20211012 21-54,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 21-54Attention,Attention,0.016174441,0.195545033,Brazil,PCS
+29,20211012 21-54,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 21-54C-LSTM,C-LSTM,0.015737189,0.055912018,Brazil,PCS
+30,20211013 00-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-09LSTM,LSTM,0.033208702,0.020001374,Brazil,P
+31,20211013 00-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-09Attention,Attention,0.016029254,0.063454084,Brazil,P
+32,20211013 00-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-09C-LSTM,C-LSTM,0.016015079,0.103792861,Brazil,P
+33,20211013 00-19,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-19LSTM,LSTM,0.02401384,0.08223822,Brazil,PC
+34,20211013 00-19,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-19Attention,Attention,0.015572019,0.052026298,Brazil,PC
+35,20211013 00-19,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-19C-LSTM,C-LSTM,0.016338211,0.096530668,Brazil,PC
+36,20211013 00-28,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-28LSTM,LSTM,0.019725202,0.039443951,Brazil,PCS
+37,20211013 00-28,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-28Attention,Attention,0.015901916,0.249249622,Brazil,PCS
+38,20211013 00-28,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-28C-LSTM,C-LSTM,0.012266854,0.055523913,Brazil,PCS
+39,20211013 01-34,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 01-34LSTM,LSTM,0.017996922,0.064301923,Brazil,P
+40,20211013 01-34,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 01-34Attention,Attention,0.015604873,0.061273821,Brazil,P
+41,20211013 01-34,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 01-34C-LSTM,C-LSTM,0.015200679,0.061282039,Brazil,P
+42,20211013 01-39,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 01-39LSTM,LSTM,0.027594302,0.027260458,Brazil,PC
+43,20211013 01-39,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 01-39Attention,Attention,0.01575534,0.038702652,Brazil,PC
+44,20211013 01-39,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 01-39C-LSTM,C-LSTM,0.015848378,0.084942266,Brazil,PC
+45,20211013 01-44,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 01-44LSTM,LSTM,0.022075757,0.0383274,Brazil,PCS
+46,20211013 01-44,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 01-44Attention,Attention,0.015847297,0.061295748,Brazil,PCS
+47,20211013 01-44,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 01-44C-LSTM,C-LSTM,0.015954506,0.059053976,Brazil,PCS
+48,20211013 14-01,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-01LSTM,LSTM,0.023582205,0.029598262,Brazil,P
+49,20211013 14-01,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-01Attention,Attention,0.015506448,0.066286847,Brazil,P
+50,20211013 14-01,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-01C-LSTM,C-LSTM,0.015667289,0.058007073,Brazil,P
+51,20211013 14-06,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-06LSTM,LSTM,0.14752692,0.122146569,Brazil,PC
+52,20211013 14-06,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-06Attention,Attention,0.015896505,0.053432714,Brazil,PC
+53,20211013 14-06,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-06C-LSTM,C-LSTM,0.14752692,0.122146569,Brazil,PC
+54,20211013 14-14,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-14LSTM,LSTM,0.02402648,0.030518491,Brazil,PCS
+55,20211013 14-14,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-14Attention,Attention,0.015901329,0.071428418,Brazil,PCS
+56,20211013 14-14,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-14C-LSTM,C-LSTM,0.015488195,0.093288034,Brazil,PCS
+57,20211013 20-15,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-15LSTM,LSTM,0.034177594,0.022002652,Brazil,P
+58,20211013 20-15,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-15Attention,Attention,0.015540279,0.055767786,Brazil,P
+59,20211013 20-15,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-15C-LSTM,C-LSTM,0.015425575,0.053025503,Brazil,P
+60,20211013 20-20,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-20LSTM,LSTM,0.03286824,0.021158138,Brazil,PC
+61,20211013 20-20,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-20Attention,Attention,0.016109128,0.110519186,Brazil,PC
+62,20211013 20-20,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-20C-LSTM,C-LSTM,0.015743162,0.094871476,Brazil,PC
+63,20211013 20-26,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-26LSTM,LSTM,0.017703831,0.049094949,Brazil,PCS
+64,20211013 20-26,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-26Attention,Attention,0.015884679,0.129861966,Brazil,PCS
+65,20211013 20-26,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-26C-LSTM,C-LSTM,0.016765891,0.057149034,Brazil,PCS
+66,20211015 00-28,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 00-28LSTM,LSTM,0.026132336,0.022876319,Brazil,P
+67,20211015 00-28,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 00-28Attention,Attention,0.015636867,0.050160334,Brazil,P
+68,20211015 00-28,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 00-28C-LSTM,C-LSTM,0.016443115,0.060449932,Brazil,P
+69,20211015 00-38,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 00-38LSTM,LSTM,0.026095362,0.026305489,Brazil,PC
+70,20211015 00-38,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 00-38Attention,Attention,0.015779421,0.096443765,Brazil,PC
+71,20211015 00-38,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 00-38C-LSTM,C-LSTM,0.015933791,0.104435377,Brazil,PC
+72,20211015 00-47,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 00-47LSTM,LSTM,0.022934949,0.033677321,Brazil,PCS
+73,20211015 00-47,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 00-47Attention,Attention,0.015748905,0.061807103,Brazil,PCS
+74,20211015 00-47,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 00-47C-LSTM,C-LSTM,0.01632922,0.06506291,Brazil,PCS
+75,20211015 05-22,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 05-22LSTM,LSTM,0.017482786,0.051414322,Brazil,P
+76,20211015 05-22,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 05-22Attention,Attention,0.015873127,0.081574351,Brazil,P
+77,20211015 05-22,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 05-22C-LSTM,C-LSTM,0.015871447,0.089009456,Brazil,P
+78,20211015 05-27,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 05-27LSTM,LSTM,0.01907789,0.041024338,Brazil,PC
+79,20211015 05-27,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 05-27Attention,Attention,0.01585668,0.081721433,Brazil,PC
+80,20211015 05-27,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 05-27C-LSTM,C-LSTM,0.015531302,0.084937908,Brazil,PC
+81,20211015 05-33,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 05-33LSTM,LSTM,0.030897828,0.021118984,Brazil,PCS
+82,20211015 05-33,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 05-33Attention,Attention,0.015501862,0.063156508,Brazil,PCS
+83,20211015 05-33,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 05-33C-LSTM,C-LSTM,0.015562284,0.067810223,Brazil,PCS
+84,20211012 03-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 03-12LSTM,LSTM,0.004772557,0.0020393,India,PCS
+85,20211012 03-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 03-12Attention,Attention,0.000747276,0.007749659,India,PCS
+86,20211012 03-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 03-12C-LSTM,C-LSTM,0.000246448,0.00081212,India,PCS
+87,20211012 18-51,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 18-51LSTM,LSTM,0.005591787,0.001914328,India,P
+88,20211012 18-51,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 18-51Attention,Attention,0.000961731,0.010363663,India,P
+89,20211012 18-51,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 18-51C-LSTM,C-LSTM,0.000901222,0.005587783,India,P
+90,20211012 18-56,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 18-56LSTM,LSTM,0.004233635,0.003889666,India,PC
+91,20211012 18-56,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 18-56Attention,Attention,0.000410508,0.002407317,India,PC
+92,20211012 18-56,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 18-56C-LSTM,C-LSTM,0.00078048,0.001081365,India,PC
+93,20211012 19-01,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 19-01LSTM,LSTM,0.012658862,0.013223696,India,PCS
+94,20211012 19-01,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 19-01Attention,Attention,0.000897754,0.005602909,India,PCS
+95,20211012 19-01,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 19-01C-LSTM,C-LSTM,0.00075286,0.001157529,India,PCS
+96,20211012 19-28,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 19-28LSTM,LSTM,0.005378175,0.005323474,India,P
+97,20211012 19-28,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 19-28Attention,Attention,0.000773581,0.070525289,India,P
+98,20211012 19-28,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 19-28C-LSTM,C-LSTM,0.001394138,0.004347065,India,P
+99,20211012 19-34,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 19-34LSTM,LSTM,0.010628019,0.005494567,India,PC
+100,20211012 19-34,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 19-34Attention,Attention,0.000938552,0.008595302,India,PC
+101,20211012 19-34,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 19-34C-LSTM,C-LSTM,0.00085945,0.004434466,India,PC
+102,20211012 19-39,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 19-39LSTM,LSTM,0.004725011,0.005499538,India,PCS
+103,20211012 19-39,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 19-39Attention,Attention,0.00094754,0.012989963,India,PCS
+104,20211012 19-39,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 19-39C-LSTM,C-LSTM,0.000237829,0.004512498,India,PCS
+105,20211012 21-32,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 21-32LSTM,LSTM,0.009184177,0.039713558,India,P
+106,20211012 21-32,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 21-32Attention,Attention,0.000487578,0.052011412,India,P
+107,20211012 21-32,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 21-32C-LSTM,C-LSTM,0.000944274,0.007314779,India,P
+108,20211013 00-05,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-05LSTM,LSTM,0.010475542,0.021163689,India,P
+109,20211013 00-05,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-05Attention,Attention,0.007882558,0.002031625,India,P
+110,20211013 00-05,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-05C-LSTM,C-LSTM,0.000801968,0.009325731,India,P
+111,20211013 00-15,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-15LSTM,LSTM,0.061466463,0.009922295,India,PC
+112,20211013 00-15,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-15Attention,Attention,0.007821185,0.002087534,India,PC
+113,20211013 00-15,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-15C-LSTM,C-LSTM,0.000345962,0.000702458,India,PC
+114,20211013 00-25,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-25LSTM,LSTM,0.004140214,0.005636416,India,PCS
+115,20211013 00-25,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-25Attention,Attention,0.000878017,0.003215418,India,PCS
+116,20211013 00-25,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-25C-LSTM,C-LSTM,0.000899848,0.00381874,India,PCS
+117,20211013 02-10,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 02-10LSTM,LSTM,0.007172968,0.002977081,India,P
+118,20211013 02-10,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 02-10Attention,Attention,0.000837187,0.037818991,India,P
+119,20211013 02-10,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 02-10C-LSTM,C-LSTM,0.00068543,0.014697894,India,P
+120,20211013 02-17,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 02-17LSTM,LSTM,0.008309527,0.001803606,India,PC
+121,20211013 02-17,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 02-17Attention,Attention,0.000751673,0.002017992,India,PC
+122,20211013 02-17,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 02-17C-LSTM,C-LSTM,0.000891822,0.001201665,India,PC
+123,20211013 02-23,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 02-23LSTM,LSTM,0.007805053,0.000676932,India,PCS
+124,20211013 02-23,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 02-23Attention,Attention,0.00087816,0.037026171,India,PCS
+125,20211013 02-23,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 02-23C-LSTM,C-LSTM,0.000918519,0.001098359,India,PCS
+126,20211013 14-30,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-30LSTM,LSTM,0.005680327,0.005277966,India,P
+127,20211013 14-30,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-30Attention,Attention,0.000960414,0.079102486,India,P
+128,20211013 14-30,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-30C-LSTM,C-LSTM,0.000877371,0.024977295,India,P
+129,20211013 14-36,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-36LSTM,LSTM,0.013093582,0.000865394,India,PC
+130,20211013 14-36,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-36Attention,Attention,0.000905281,0.011561825,India,PC
+131,20211013 14-36,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-36C-LSTM,C-LSTM,0.000221968,0.001017458,India,PC
+132,20211013 14-41,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-41LSTM,LSTM,0.006825675,0.002431255,India,PCS
+133,20211013 14-41,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-41Attention,Attention,0.001065525,0.00340469,India,PCS
+134,20211013 14-41,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-41C-LSTM,C-LSTM,0.000278917,0.000772192,India,PCS
+135,20211013 20-47,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-47LSTM,LSTM,0.007966363,0.013197345,India,P
+136,20211013 20-47,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-47Attention,Attention,0.000988026,0.002625559,India,P
+137,20211013 20-47,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-47C-LSTM,C-LSTM,0.000979623,0.028888518,India,P
+138,20211013 20-52,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-52LSTM,LSTM,0.007270961,0.001433715,India,PC
+139,20211013 20-52,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-52Attention,Attention,0.000924779,0.025219502,India,PC
+140,20211013 20-52,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-52C-LSTM,C-LSTM,0.000413168,0.003212001,India,PC
+141,20211013 20-58,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-58LSTM,LSTM,0.061466463,0.009922295,India,PCS
+142,20211013 20-58,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-58Attention,Attention,0.000910127,0.023192871,India,PCS
+143,20211013 20-58,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 20-58C-LSTM,C-LSTM,0.000245887,0.000545515,India,PCS
+144,20211014 20-28,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-28LSTM,LSTM,0.003827026,0.008564778,India,P
+145,20211014 20-28,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-28Attention,Attention,0.000958052,0.045218948,India,P
+146,20211014 20-28,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-28C-LSTM,C-LSTM,0.000955506,0.005794939,India,P
+147,20211014 20-35,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-35LSTM,LSTM,0.061466463,0.009922295,India,PC
+148,20211014 20-35,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-35Attention,Attention,0.000781302,0.002912148,India,PC
+149,20211014 20-35,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-35C-LSTM,C-LSTM,0.000448925,0.005163228,India,PC
+150,20211014 20-43,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-43LSTM,LSTM,0.008038297,0.003040149,India,PCS
+151,20211014 20-43,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-43Attention,Attention,0.000871815,0.009478423,India,PCS
+152,20211014 20-43,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-43C-LSTM,C-LSTM,0.001038834,0.028261138,India,PCS
+153,20211015 00-03,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 00-03LSTM,LSTM,0.012190631,0.010879557,India,P
+154,20211015 00-03,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 00-03Attention,Attention,0.000901796,0.012680059,India,P
+155,20211015 00-03,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 00-03C-LSTM,C-LSTM,0.000890301,0.013747252,India,P
+156,20211015 00-16,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 00-16LSTM,LSTM,0.004659703,0.002614196,India,PCS
+157,20211015 00-16,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 00-16Attention,Attention,0.000423712,0.001622147,India,PCS
+158,20211015 00-16,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 00-16C-LSTM,C-LSTM,0.000847358,0.001720825,India,PCS
+159,20211015 04-02,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-02LSTM,LSTM,0.005849134,0.012756299,India,P
+160,20211015 04-02,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-02Attention,Attention,0.000843425,0.018415496,India,P
+161,20211015 04-02,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-02C-LSTM,C-LSTM,0.000891374,0.000946936,India,P
+162,20211015 04-10,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-10LSTM,LSTM,0.007926804,0.00259199,India,PC
+163,20211015 04-10,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-10Attention,Attention,0.000877897,0.036722809,India,PC
+164,20211015 04-10,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-10C-LSTM,C-LSTM,0.000311026,0.016011614,India,PC
+165,20211015 04-17,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-17LSTM,LSTM,0.061466463,0.009922295,India,PCS
+166,20211015 04-17,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-17Attention,Attention,0.000909663,0.017657205,India,PCS
+167,20211015 04-17,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-17C-LSTM,C-LSTM,0.000829111,0.002839585,India,PCS
+168,20211011 22-05,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 22-05LSTM,LSTM,0.039384194,0.246372849,Mexico,P
+169,20211011 22-05,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 22-05Attention,Attention,0.004819337,0.053793326,Mexico,P
+170,20211011 22-05,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 22-05C-LSTM,C-LSTM,0.005061618,0.055563785,Mexico,P
+171,20211011 22-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 22-12LSTM,LSTM,0.00936214,0.104219832,Mexico,PC
+172,20211011 22-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 22-12Attention,Attention,0.00479671,0.053264368,Mexico,PC
+173,20211011 22-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 22-12C-LSTM,C-LSTM,0.005021756,0.071021535,Mexico,PC
+174,20211011 22-19,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 22-19LSTM,LSTM,0.007819367,0.062883973,Mexico,PCS
+175,20211011 22-19,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 22-19Attention,Attention,0.004811285,0.055130832,Mexico,PCS
+176,20211011 22-19,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 22-19C-LSTM,C-LSTM,0.004850868,0.05224758,Mexico,PCS
+177,20211011 23-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-09LSTM,LSTM,0.006588438,0.061228588,Mexico,P
+178,20211011 23-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-09Attention,Attention,0.005057311,0.061365604,Mexico,P
+179,20211011 23-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-09C-LSTM,C-LSTM,0.005015084,0.064514279,Mexico,P
+180,20211011 23-21,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-21LSTM,LSTM,0.010078657,0.060764212,Mexico,PC
+181,20211011 23-21,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-21Attention,Attention,0.004764717,0.064429894,Mexico,PC
+182,20211011 23-21,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-21C-LSTM,C-LSTM,0.004577842,0.111167848,Mexico,PC
+183,20211011 23-29,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-29LSTM,LSTM,0.008628375,0.071358345,Mexico,PCS
+184,20211011 23-29,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-29Attention,Attention,0.005345893,0.096135832,Mexico,PCS
+185,20211011 23-29,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 23-29C-LSTM,C-LSTM,0.005210297,0.080783561,Mexico,PCS
+186,20211012 03-02,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 03-02LSTM,LSTM,0.009743083,0.09780775,Mexico,PC
+187,20211012 03-02,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 03-02Attention,Attention,0.004944338,0.093631402,Mexico,PC
+188,20211012 03-02,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 03-02C-LSTM,C-LSTM,0.00477588,0.053131018,Mexico,PC
+189,20211012 03-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 03-12LSTM,LSTM,0.012478602,0.080059752,Mexico,PCS
+190,20211012 03-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 03-12Attention,Attention,0.005452323,0.056274679,Mexico,PCS
+191,20211012 03-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 03-12C-LSTM,C-LSTM,0.00473348,0.046787947,Mexico,PCS
+192,20211012 20-23,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 20-23LSTM,LSTM,0.00550475,0.05723067,Mexico,P
+193,20211012 20-23,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 20-23Attention,Attention,0.005009069,2.004568338,Mexico,P
+194,20211012 20-23,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 20-23C-LSTM,C-LSTM,0.004597741,0.044403631,Mexico,P
+195,20211012 20-28,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 20-28LSTM,LSTM,0.008780801,0.091723487,Mexico,PC
+196,20211012 20-28,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 20-28Attention,Attention,0.004943157,0.066209666,Mexico,PC
+197,20211012 20-28,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 20-28C-LSTM,C-LSTM,0.004921787,0.093933679,Mexico,PC
+198,20211012 20-34,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 20-34LSTM,LSTM,0.039384194,0.246372849,Mexico,PCS
+199,20211012 20-34,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 20-34Attention,Attention,0.005029721,0.229015142,Mexico,PCS
+200,20211012 20-34,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 20-34C-LSTM,C-LSTM,0.004804017,0.050304409,Mexico,PCS
+201,20211013 00-07,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-07LSTM,LSTM,0.007835751,0.092265181,Mexico,P
+202,20211013 00-07,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-07Attention,Attention,0.004776418,0.046736822,Mexico,P
+203,20211013 00-07,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-07C-LSTM,C-LSTM,0.004754572,0.055304948,Mexico,P
+204,20211013 00-17,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-17LSTM,LSTM,0.005891994,0.097677186,Mexico,PC
+205,20211013 00-17,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-17Attention,Attention,0.004777804,0.083853163,Mexico,PC
+206,20211013 00-17,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-17C-LSTM,C-LSTM,0.004964149,0.054539606,Mexico,PC
+207,20211013 00-27,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-27LSTM,LSTM,0.006091965,0.09108761,Mexico,PCS
+208,20211013 00-27,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-27Attention,Attention,0.005330485,0.08385402,Mexico,PCS
+209,20211013 00-27,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-27C-LSTM,C-LSTM,0.005010302,0.072076812,Mexico,PCS
+210,20211013 03-05,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 03-05LSTM,LSTM,0.007455757,0.056095451,Mexico,P
+211,20211013 03-05,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 03-05Attention,Attention,0.039384194,0.246372849,Mexico,P
+212,20211013 03-05,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 03-05C-LSTM,C-LSTM,0.004966136,0.051387973,Mexico,P
+213,20211013 03-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 03-09LSTM,LSTM,0.00916992,0.074595273,Mexico,PC
+214,20211013 03-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 03-09Attention,Attention,0.004918757,0.055079412,Mexico,PC
+215,20211013 03-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 03-09C-LSTM,C-LSTM,0.004559427,0.049109936,Mexico,PC
+216,20211013 03-14,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 03-14LSTM,LSTM,0.008784248,0.064044021,Mexico,PCS
+217,20211013 03-14,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 03-14Attention,Attention,0.004986155,0.054616909,Mexico,PCS
+218,20211013 03-14,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 03-14C-LSTM,C-LSTM,0.004734422,0.050010704,Mexico,PCS
+219,20211013 17-00,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 17-00LSTM,LSTM,0.00652965,0.056956999,Mexico,P
+220,20211013 17-00,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 17-00Attention,Attention,0.004721938,0.058284085,Mexico,P
+221,20211013 17-00,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 17-00C-LSTM,C-LSTM,0.004640693,0.062691562,Mexico,P
+222,20211013 17-06,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 17-06LSTM,LSTM,0.011305733,0.096605569,Mexico,PC
+223,20211013 17-06,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 17-06Attention,Attention,0.004848756,0.092642821,Mexico,PC
+224,20211013 17-06,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 17-06C-LSTM,C-LSTM,0.005215117,0.050479829,Mexico,PC
+225,20211013 17-13,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 17-13LSTM,LSTM,0.00896481,0.073206559,Mexico,PCS
+226,20211013 17-13,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 17-13Attention,Attention,0.039384194,0.246372849,Mexico,PCS
+227,20211013 17-13,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 17-13C-LSTM,C-LSTM,0.004968716,0.052576058,Mexico,PCS
+228,20211013 21-18,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 21-18LSTM,LSTM,0.007263615,0.055800952,Mexico,P
+229,20211013 21-18,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 21-18Attention,Attention,0.004896201,0.055079307,Mexico,P
+230,20211013 21-18,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 21-18C-LSTM,C-LSTM,0.004841085,0.054503925,Mexico,P
+231,20211013 21-25,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 21-25LSTM,LSTM,0.00691794,0.071587011,Mexico,PC
+232,20211013 21-25,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 21-25Attention,Attention,0.005077117,0.058673441,Mexico,PC
+233,20211013 21-25,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 21-25C-LSTM,C-LSTM,0.005140595,0.055876542,Mexico,PC
+234,20211013 21-32,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 21-32LSTM,LSTM,0.007595542,0.095669307,Mexico,PCS
+235,20211013 21-32,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 21-32Attention,Attention,0.005501342,0.059350848,Mexico,PCS
+236,20211013 21-32,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 21-32C-LSTM,C-LSTM,0.005071561,0.05606696,Mexico,PCS
+237,20211014 20-30,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-30LSTM,LSTM,0.039384194,0.246372849,Mexico,P
+238,20211014 20-30,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-30Attention,Attention,0.00505738,0.266245812,Mexico,P
+239,20211014 20-30,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-30C-LSTM,C-LSTM,0.004994218,0.056249585,Mexico,P
+240,20211014 20-37,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-37LSTM,LSTM,0.008077903,0.105244197,Mexico,PC
+241,20211014 20-37,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-37Attention,Attention,0.004705012,0.083461553,Mexico,PC
+242,20211014 20-37,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-37C-LSTM,C-LSTM,0.004480763,0.081804611,Mexico,PC
+243,20211014 20-44,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-44LSTM,LSTM,0.00845417,0.064930484,Mexico,PCS
+244,20211014 20-44,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-44Attention,Attention,0.005082416,0.054872636,Mexico,PCS
+245,20211014 20-44,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 20-44C-LSTM,C-LSTM,0.004953961,0.061956655,Mexico,PCS
+246,20211015 04-05,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-05LSTM,LSTM,0.012610633,0.151223108,Mexico,P
+247,20211015 04-05,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-05Attention,Attention,0.005284726,0.070780098,Mexico,P
+248,20211015 04-05,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-05C-LSTM,C-LSTM,0.039384194,0.246372849,Mexico,P
+249,20211015 04-13,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-13LSTM,LSTM,0.007496578,0.062051132,Mexico,PC
+250,20211015 04-13,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-13Attention,Attention,0.005474916,0.055236481,Mexico,PC
+251,20211015 04-13,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-13C-LSTM,C-LSTM,0.004846387,0.062704369,Mexico,PC
+252,20211015 04-20,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-20LSTM,LSTM,0.009632567,0.087951183,Mexico,PCS
+253,20211015 04-20,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-20Attention,Attention,0.005177781,0.059845768,Mexico,PCS
+254,20211015 04-20,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211015 04-20C-LSTM,C-LSTM,0.004819689,0.059131466,Mexico,PCS
+255,20211011 18-59,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 18-59LSTM,LSTM,0.006912811,0.14537859,United States,P
+256,20211011 18-59,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 18-59Attention,Attention,0.002359999,0.08932912,United States,P
+257,20211011 18-59,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211011 18-59C-LSTM,C-LSTM,0.002271688,0.13585488,United States,P
+258,20211012 03-39,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 03-39LSTM,LSTM,0.011360785,0.060696002,United States,P
+259,20211012 03-39,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 03-39Attention,Attention,0.003045855,0.079919212,United States,P
+260,20211012 03-39,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 03-39C-LSTM,C-LSTM,0.00218301,0.115683228,United States,P
+261,20211012 16-35,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 16-35LSTM,LSTM,0.00925319,0.059343059,United States,P
+262,20211012 16-35,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 16-35Attention,Attention,0.002316019,0.077851921,United States,P
+263,20211012 16-35,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 16-35C-LSTM,C-LSTM,0.002307516,0.114506498,United States,P
+264,20211012 17-07,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 17-07LSTM,LSTM,0.011600376,0.109504774,United States,P
+265,20211012 17-07,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 17-07Attention,Attention,0.002517666,0.082338065,United States,P
+266,20211012 17-07,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 17-07C-LSTM,C-LSTM,0.002510324,0.067004055,United States,P
+267,20211012 17-51,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 17-51LSTM,LSTM,0.010858535,0.116099507,United States,P
+268,20211012 17-51,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 17-51Attention,Attention,0.002386658,0.101156674,United States,P
+269,20211012 17-51,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211012 17-51C-LSTM,C-LSTM,0.002463632,0.085441999,United States,P
+270,20211013 00-03,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-03LSTM,LSTM,0.013845782,0.094982587,United States,P
+271,20211013 00-03,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-03Attention,Attention,0.00241684,0.072646998,United States,P
+272,20211013 00-03,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 00-03C-LSTM,C-LSTM,0.087960899,0.168428749,United States,P
+273,20211013 02-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 02-09LSTM,LSTM,0.007267396,0.088468015,United States,P
+274,20211013 02-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 02-09Attention,Attention,0.002655337,0.045083139,United States,P
+275,20211013 02-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 02-09C-LSTM,C-LSTM,0.002395723,0.119000807,United States,P
+276,20211013 14-10,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-10LSTM,LSTM,0.01784764,0.139218837,United States,P
+277,20211013 14-10,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-10Attention,Attention,0.002773154,0.042207733,United States,P
+278,20211013 14-10,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 14-10C-LSTM,C-LSTM,0.002345395,0.056081101,United States,P
+279,20211013 17-01,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 17-01LSTM,LSTM,0.013775029,0.098234847,United States,P
+280,20211013 17-01,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 17-01Attention,Attention,0.002848458,0.108161278,United States,P
+281,20211013 17-01,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211013 17-01C-LSTM,C-LSTM,0.002345576,0.128044754,United States,P
+282,20211014 00-15,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 00-15LSTM,LSTM,0.016971176,0.134603858,United States,P
+283,20211014 00-15,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 00-15Attention,Attention,0.002509791,0.053041663,United States,P
+284,20211014 00-15,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 00-15C-LSTM,C-LSTM,0.002175155,0.10423553,United States,P
+285,20211014 23-55,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 23-55LSTM,LSTM,0.011990451,0.147850201,United States,P
+286,20211014 23-55,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 23-55Attention,Attention,0.002497527,0.101049446,United States,P
+287,20211014 23-55,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211014 23-55C-LSTM,C-LSTM,0.002391028,0.144367561,United States,P
+288,,,,,,,
+289,20211016 00-15,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-15LSTM,LSTM,0.013324555940926,0.1371010541915893,United States,P
+290,20211016 00-15,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-15Attention,Attention,0.0025159937795251,0.1403593122959137,United States,P
+291,20211016 00-15,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-15C-LSTM,C-LSTM,0.0020861397497355,0.1341407299041748,United States,P
+292,20211016 00-20,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-20LSTM,LSTM,0.0037107374519109,0.1422944217920303,United States,PC
+293,20211016 00-20,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-20Attention,Attention,0.0022896481677889,0.0715443938970565,United States,PC
+294,20211016 00-20,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-20C-LSTM,C-LSTM,0.0021623675711452,0.0758579969406127,United States,PC
+295,20211016 00-25,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-25LSTM,LSTM,0.0038834058213979,0.1022906452417373,United States,PCS
+296,20211016 00-25,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-25Attention,Attention,0.0879608988761901,0.168428748846054,United States,PCS
+297,20211016 00-25,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-25C-LSTM,C-LSTM,0.0017648170469328,0.1423262357711792,United States,PCS
+298,20211016 00-33,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-33LSTM,LSTM,0.0139693096280097,0.0745637416839599,United States,P
+299,20211016 00-33,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-33Attention,Attention,0.0025515956804156,0.1147025302052497,United States,P
+300,20211016 00-33,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-33C-LSTM,C-LSTM,0.0022419299930334,0.140367642045021,United States,P
+301,20211016 00-38,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-38LSTM,LSTM,0.0106859905645251,0.096089631319046,United States,PC
+302,20211016 00-38,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-38Attention,Attention,0.0026682682801038,0.0737607479095459,United States,PC
+303,20211016 00-38,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-38C-LSTM,C-LSTM,0.0453696586191654,0.0743004456162452,United States,PC
+304,20211016 00-43,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-43LSTM,LSTM,0.0879608988761901,0.168428748846054,United States,PCS
+305,20211016 00-43,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-43Attention,Attention,0.002176544861868,0.1122293397784233,United States,PCS
+306,20211016 00-43,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 00-43C-LSTM,C-LSTM,0.0022244150750339,0.0608138963580131,United States,PCS
+307,20211016 01-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-12LSTM,LSTM,0.0076077640987932,0.1375226080417633,United States,P
+308,20211016 01-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-12Attention,Attention,0.0023203475866466,0.0672456175088882,United States,P
+309,20211016 01-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-12C-LSTM,C-LSTM,0.0022892062552273,0.0707859843969345,United States,P
+310,20211016 01-17,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-17LSTM,LSTM,0.0400168895721435,0.0920134782791137,United States,PC
+311,20211016 01-17,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-17Attention,Attention,0.0026882332749664,0.1121395900845527,United States,PC
+312,20211016 01-17,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-17C-LSTM,C-LSTM,0.0018665920943021,0.0898014679551124,United States,PC
+313,20211016 01-22,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-22LSTM,LSTM,0.0054036099463701,0.1285502761602401,United States,PCS
+314,20211016 01-22,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-22Attention,Attention,0.0025380328297615,0.0440020784735679,United States,PCS
+315,20211016 01-22,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-22C-LSTM,C-LSTM,0.0021059170830994,0.133567675948143,United States,PCS
+316,20211016 01-31,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-31LSTM,LSTM,0.0120076267048716,0.0588423907756805,United States,P
+317,20211016 01-31,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-31Attention,Attention,0.0027492449153214,0.0509736388921737,United States,P
+318,20211016 01-31,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-31C-LSTM,C-LSTM,0.0022011660039424,0.1095944792032241,United States,P
+319,20211016 01-36,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-36LSTM,LSTM,0.0078116548247635,0.0994991511106491,United States,PC
+320,20211016 01-36,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-36Attention,Attention,0.0022615301422774,0.0475181899964809,United States,PC
+321,20211016 01-36,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-36C-LSTM,C-LSTM,0.0023107037413865,0.0797966942191124,United States,PC
+322,20211016 01-42,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-42LSTM,LSTM,0.0046517294831573,0.1168847754597663,United States,PCS
+323,20211016 01-42,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-42Attention,Attention,0.0024476840626448,0.0889098718762397,United States,PCS
+324,20211016 01-42,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-42C-LSTM,C-LSTM,0.002174938796088,0.129181906580925,United States,PCS
+325,20211016 01-48,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-48LSTM,LSTM,0.0158125571906566,0.0902299135923385,United States,P
+326,20211016 01-48,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-48Attention,Attention,0.0025232129264622,0.1177005171775817,United States,P
+327,20211016 01-48,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-48C-LSTM,C-LSTM,0.0022905406076461,0.1254417151212692,United States,P
+328,20211016 01-53,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-53LSTM,LSTM,0.0081410259008407,0.0822771340608596,United States,PC
+329,20211016 01-53,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-53Attention,Attention,0.0027399025857448,0.116209827363491,United States,PC
+330,20211016 01-53,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 01-53C-LSTM,C-LSTM,0.002325118985027,0.1268689334392547,United States,PC
+331,20211016 02-00,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-00LSTM,LSTM,0.0076601798646152,0.102848008275032,United States,P
+332,20211016 02-00,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-00Attention,Attention,0.0023269883822649,0.1285698413848877,United States,P
+333,20211016 02-00,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-00C-LSTM,C-LSTM,0.0022277187090367,0.1362720876932144,United States,P
+334,20211016 02-05,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-05LSTM,LSTM,0.0222065784037113,0.093289703130722,United States,PC
+335,20211016 02-05,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-05Attention,Attention,0.0024892617948353,0.0843318775296211,United States,PC
+336,20211016 02-05,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-05C-LSTM,C-LSTM,0.0022853864356875,0.1296182572841644,United States,PC
+337,20211016 02-11,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-11LSTM,LSTM,0.0093369474634528,0.1216368824243545,United States,PCS
+338,20211016 02-11,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-11Attention,Attention,0.0024088122881948,0.0716107413172721,United States,PCS
+339,20211016 02-11,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-11C-LSTM,C-LSTM,0.0023504453711211,0.0424878448247909,United States,PCS
+340,20211016 02-27,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-27LSTM,LSTM,0.0116495490074157,0.0989473313093185,United States,P
+341,20211016 02-27,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-27Attention,Attention,0.0024885537568479,0.1301664113998413,United States,P
+342,20211016 02-27,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-27C-LSTM,C-LSTM,0.0022716301027685,0.0706944316625595,United States,P
+343,20211016 02-32,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-32LSTM,LSTM,0.0081656128168106,0.1519014835357666,United States,PC
+344,20211016 02-32,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-32Attention,Attention,0.0024672653526067,0.0574859194457531,United States,PC
+345,20211016 02-32,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-32C-LSTM,C-LSTM,0.00223348592408,0.1456369012594223,United States,PC
+346,20211016 02-37,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-37LSTM,LSTM,0.0086442241445183,0.0817093253135681,United States,PCS
+347,20211016 02-37,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-37Attention,Attention,0.0023516530636698,0.066544160246849,United States,PCS
+348,20211016 02-37,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-37C-LSTM,C-LSTM,0.0024190649855881,0.1313078850507736,United States,PCS
+349,20211016 02-52,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-52LSTM,LSTM,0.0051464047282934,0.0800616517663002,United States,P
+350,20211016 02-52,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-52Attention,Attention,0.0024885570164769,0.112373486161232,United States,P
+351,20211016 02-52,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-52C-LSTM,C-LSTM,0.0022999376524239,0.1246911659836769,United States,P
+352,20211016 02-57,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-57LSTM,LSTM,0.0041372328996658,0.1096619591116905,United States,PC
+353,20211016 02-57,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-57Attention,Attention,0.0023672387469559,0.1128356903791427,United States,PC
+354,20211016 02-57,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 02-57C-LSTM,C-LSTM,0.0021977755241096,0.1403092145919799,United States,PC
+355,20211016 03-03,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 03-03LSTM,LSTM,0.0088056847453117,0.1205741167068481,United States,PCS
+356,20211016 03-03,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 03-03Attention,Attention,0.0024737180210649,0.1129089593887329,United States,PCS
+357,20211016 03-03,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 03-03C-LSTM,C-LSTM,0.0021791676990687,0.1232174262404441,United States,PCS
+358,20211016 15-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-12LSTM,LSTM,0.0094874240458011,0.0916909128427505,United States,P
+359,20211016 15-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-12Attention,Attention,0.0025840634480118,0.1657276451587677,United States,P
+360,20211016 15-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-12C-LSTM,C-LSTM,0.0023276857100427,0.1034775152802467,United States,P
+361,20211016 15-17,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-17LSTM,LSTM,0.0086280489340424,0.0725033804774284,United States,PC
+362,20211016 15-17,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-17Attention,Attention,0.0022283899597823,0.1362117528915405,United States,PC
+363,20211016 15-17,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-17C-LSTM,C-LSTM,0.0021839637774974,0.142981007695198,United States,PC
+364,20211016 15-22,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-22LSTM,LSTM,0.0133350705727934,0.1276752948760986,United States,PCS
+365,20211016 15-22,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-22Attention,Attention,0.0024225800298154,0.0424514487385749,United States,PCS
+366,20211016 15-22,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-22C-LSTM,C-LSTM,0.0020972050260752,0.0957982689142227,United States,PCS
+367,20211016 15-27,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-27LSTM,LSTM,0.0141222877427935,0.1122699379920959,United States,P
+368,20211016 15-27,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-27Attention,Attention,0.0024776407517492,0.085058718919754,United States,P
+369,20211016 15-27,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-27C-LSTM,C-LSTM,0.0023919788654893,0.1137488856911659,United States,P
+370,20211016 15-33,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-33LSTM,LSTM,0.007036967203021,0.0935254320502281,United States,PC
+371,20211016 15-33,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-33Attention,Attention,0.0024014115333557,0.1274967342615127,United States,PC
+372,20211016 15-33,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-33C-LSTM,C-LSTM,0.0022368896752595,0.1247904226183891,United States,PC
+373,20211016 15-39,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-39LSTM,LSTM,0.0085160853341221,0.102977730333805,United States,PCS
+374,20211016 15-39,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-39Attention,Attention,0.0021690581925213,0.0851913392543792,United States,PCS
+375,20211016 15-39,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 15-39C-LSTM,C-LSTM,0.0027436730451881,0.1115791723132133,United States,PCS
+376,20211016 16-38,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 16-38LSTM,LSTM,0.0069172377698123,0.1084017753601074,United States,P
+377,20211016 16-38,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 16-38Attention,Attention,0.0026250341907143,0.0971154198050499,United States,P
+378,20211016 16-38,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 16-38C-LSTM,C-LSTM,0.0024254529271274,0.1149656400084495,United States,P
+379,20211016 16-43,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 16-43LSTM,LSTM,0.0879608988761901,0.168428748846054,United States,PC
+380,20211016 16-43,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 16-43Attention,Attention,0.0021837120875716,0.1431576758623123,United States,PC
+381,20211016 16-43,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 16-43C-LSTM,C-LSTM,0.002163857454434,0.1304780542850494,United States,PC
+382,20211016 16-50,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 16-50LSTM,LSTM,0.0146975135430693,0.1105742901563644,United States,PCS
+383,20211016 16-50,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 16-50Attention,Attention,0.002448680344969,0.091323584318161,United States,PCS
+384,20211016 16-50,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 16-50C-LSTM,C-LSTM,0.002282434143126,0.0944894254207611,United States,PCS
+385,20211016 16-57,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 16-57LSTM,LSTM,0.0125940898433327,0.1099452823400497,United States,P
+386,20211016 16-57,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 16-57Attention,Attention,0.0879608988761901,0.168428748846054,United States,P
+387,20211016 16-57,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 16-57C-LSTM,C-LSTM,0.0879608988761901,0.168428748846054,United States,P
+388,20211016 17-03,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 17-03LSTM,LSTM,0.0118398135527968,0.0878162309527397,United States,PC
+389,20211016 17-03,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 17-03Attention,Attention,0.002390643581748,0.0909197032451629,United States,PC
+390,20211016 17-03,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 17-03C-LSTM,C-LSTM,0.0020401403307914,0.0842488557100296,United States,PC
+391,20211016 17-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 17-09LSTM,LSTM,0.0109020303934812,0.0956839993596077,United States,PCS
+392,20211016 17-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 17-09Attention,Attention,0.0023734553251415,0.0834943279623985,United States,PCS
+393,20211016 17-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 17-09C-LSTM,C-LSTM,0.0020379743073135,0.10047447681427,United States,PCS
+394,20211016 19-06,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 19-06LSTM,LSTM,0.0069006970152258,0.0422412790358066,United States,P
+395,20211016 19-06,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 19-06Attention,Attention,0.0023824537638574,0.0948060974478721,United States,P
+396,20211016 19-06,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 19-06C-LSTM,C-LSTM,0.0022804716136306,0.1529618501663208,United States,P
+397,20211016 19-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 19-12LSTM,LSTM,0.0113429818302392,0.0878668054938316,United States,PC
+398,20211016 19-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 19-12Attention,Attention,0.0027601069305092,0.0444637760519981,United States,PC
+399,20211016 19-12,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 19-12C-LSTM,C-LSTM,0.0023939167149364,0.1440483182668686,United States,PC
+400,20211016 19-19,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 19-19LSTM,LSTM,0.0081013273447752,0.1503330171108245,United States,PCS
+401,20211016 19-19,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 19-19Attention,Attention,0.0022249147295951,0.0606960654258728,United States,PCS
+402,20211016 19-19,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 19-19C-LSTM,C-LSTM,0.0022329550702124,0.1223035901784896,United States,PCS
+403,20211016 22-14,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 22-14LSTM,LSTM,0.0205212570726871,0.1129136681556701,United States,P
+404,20211016 22-14,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 22-14Attention,Attention,0.0027180991601198,0.1279825717210769,United States,P
+405,20211016 22-14,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 22-14C-LSTM,C-LSTM,0.0023001956287771,0.0683040395379066,United States,P
+406,20211016 22-19,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 22-19LSTM,LSTM,0.0129768392071127,0.1402383595705032,United States,PC
+407,20211016 22-19,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 22-19Attention,Attention,0.0024083217140287,0.0401723757386207,United States,PC
+408,20211016 22-19,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 22-19C-LSTM,C-LSTM,0.0022741798311471,0.1034271866083145,United States,PC
+409,20211016 22-24,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 22-24LSTM,LSTM,0.0064561129547655,0.1057969704270362,United States,PCS
+410,20211016 22-24,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 22-24Attention,Attention,0.0022093059960752,0.0730523914098739,United States,PCS
+411,20211016 22-24,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211016 22-24C-LSTM,C-LSTM,0.0020363326184451,0.1285372823476791,United States,PCS
+412,20211017 00-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-09LSTM,LSTM,0.0614664629101753,0.0099222948774695,India,P
+413,20211017 00-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-09Attention,Attention,0.0009553839336149,0.0232581067830324,India,P
+414,20211017 00-09,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-09C-LSTM,C-LSTM,0.0008567637996748,0.008960423991084,India,P
+415,20211017 00-14,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-14LSTM,LSTM,0.0049798870459198,0.0054860366508364,India,PC
+416,20211017 00-14,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-14Attention,Attention,0.0006118671735748,0.002126571489498,India,PC
+417,20211017 00-14,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-14C-LSTM,C-LSTM,0.0007988063152879,0.096287302672863,India,PC
+418,20211017 00-20,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-20LSTM,LSTM,0.0064214407466351,0.0838601663708686,Mexico,P
+419,20211017 00-20,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-20Attention,Attention,0.0393841937184333,0.2463728487491607,Mexico,P
+420,20211017 00-20,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-20C-LSTM,C-LSTM,0.0049895858392119,0.0473102070391178,Mexico,P
+421,20211017 00-22,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-22LSTM,LSTM,0.0130357202142477,0.0041792984120547,India,PCS
+422,20211017 00-22,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-22Attention,Attention,0.0002900148683693,0.013582469895482,India,PCS
+423,20211017 00-22,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-22C-LSTM,C-LSTM,0.0160281304270029,0.1482955664396286,India,PCS
+424,20211017 00-25,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-25LSTM,LSTM,0.0165429972112178,0.0857019573450088,Brazil,P
+425,20211017 00-25,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-25Attention,Attention,0.0158359799534082,0.1174913048744201,Brazil,P
+426,20211017 00-25,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-25C-LSTM,C-LSTM,0.0160467382520437,0.0754169225692749,Brazil,P
+427,20211017 00-27,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-27LSTM,LSTM,0.0072230650112032,0.0740915834903717,Mexico,PC
+428,20211017 00-27,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-27Attention,Attention,0.0048530413769185,0.0773021951317787,Mexico,PC
+429,20211017 00-27,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-27C-LSTM,C-LSTM,0.0047861160710453,0.0471889786422252,Mexico,PC
+430,20211017 00-31,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-31LSTM,LSTM,0.0596294663846492,0.0282673723995685,Brazil,PC
+431,20211017 00-31,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-31Attention,Attention,0.0158094018697738,0.0703447833657264,Brazil,PC
+432,20211017 00-31,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-31C-LSTM,C-LSTM,0.0160070210695266,0.0940328910946846,Brazil,PC
+433,20211017 00-34,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-34LSTM,LSTM,0.0064429687336087,0.1329914927482605,Mexico,PCS
+434,20211017 00-34,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-34Attention,Attention,0.0393841937184333,0.2463728487491607,Mexico,PCS
+435,20211017 00-34,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-34C-LSTM,C-LSTM,0.0393841937184333,0.2463728487491607,Mexico,PCS
+436,20211017 00-38,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-38LSTM,LSTM,0.03304305300116539,0.021589485928416252,Brazil,PCS
+437,20211017 00-38,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-38Attention,Attention,0.016206612810492516,0.06586971879005432,Brazil,PCS
+438,20211017 00-38,C:\Users\wasin\Downloads\Work\PG(HKU)\FYP\Program_Data\Models\20211017 00-38C-LSTM,C-LSTM,0.016434434801340103,0.10755863040685654,Brazil,PCS

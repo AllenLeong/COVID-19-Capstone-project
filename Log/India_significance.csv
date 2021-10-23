@@ -1,0 +1,24 @@
+,Loss,Validation Loss
+V3_Vaccine Financial Support (summary),0.00012235774,0.10208196
+V2_Vaccine Availability (summary),9.980181e-05,0.019909576
+V1_Vaccine Prioritisation (summary),1.3214594e-05,0.0042956546
+H8_Protection of elderly people,-0.00038249855,0.0057991147
+H7_Vaccination policy,-0.0004107961,0.0026626822
+H6_Facial Coverings,0.00014700572,0.014999287
+H5_Investment in vaccines,0.060671713,0.00796627
+H4_Emergency investment in healthcare,-0.00054193835,0.0010292747
+H3_Contact tracing,0.00032642408,0.018183563
+H2_Testing policy,0.0005452113,0.0047134226
+H1_Public information campaigns,8.909305e-05,-0.0009616413
+E4_International support,7.7373465e-05,0.006111119
+E3_Fiscal measures,-0.00021682668,0.001601187
+E2_Debt/contract relief,-0.00033823683,0.0054191165
+E1_Income support,0.060671713,0.00796627
+C8_International travel controls,8.741813e-05,0.0022563224
+C7_Restrictions on internal movement,-0.0004612813,-7.865764e-05
+C6_Stay at home requirements,0.00014244852,0.000690727
+C5_Close public transport,0.00010071462,0.001643138
+C4_Restrictions on gatherings,-5.9924612e-05,0.0040339846
+C3_Cancel public events,0.00022301747,-0.0010550569
+C2_Workplace closing,5.9625367e-05,0.008655625
+C1_School closing,9.4752584e-05,0.0018380131

@@ -1,0 +1,212 @@
+CountryName_x
+CountryCode_x
+RegionName
+RegionCode
+Jurisdiction
+Date
+C1_School closing
+C1_Flag
+C2_Workplace closing
+C2_Flag
+C3_Cancel public events
+C3_Flag
+C4_Restrictions on gatherings
+C4_Flag
+C5_Close public transport
+C5_Flag
+C6_Stay at home requirements
+C6_Flag
+C7_Restrictions on internal movement
+C7_Flag
+C8_International travel controls
+E1_Income support
+E1_Flag
+E2_Debt/contract relief
+E3_Fiscal measures
+E4_International support
+H1_Public information campaigns
+H1_Flag
+H2_Testing policy
+H3_Contact tracing
+H4_Emergency investment in healthcare
+H5_Investment in vaccines
+H6_Facial Coverings
+H6_Flag
+H7_Vaccination policy
+H7_Flag
+H8_Protection of elderly people
+H8_Flag
+M1_Wildcard
+ConfirmedCases
+ConfirmedDeaths
+StringencyIndex
+StringencyIndexForDisplay
+StringencyLegacyIndex
+StringencyLegacyIndexForDisplay
+GovernmentResponseIndex
+GovernmentResponseIndexForDisplay
+ContainmentHealthIndex
+ContainmentHealthIndexForDisplay
+EconomicSupportIndex
+EconomicSupportIndexForDisplay
+Daily_cases
+like_index
+retweet_index
+CountryName_y
+CountryCode_y
+V1_Vaccine Prioritisation (summary)
+V1_0-4 yrs infants
+V1_5-15 yrs young people
+V1_Airport/Border/Airline Staff
+V1_At Risk 16-19 yrs
+V1_At Risk 20-24 yrs
+V1_At Risk 25-29 yrs
+V1_At Risk 30-34 yrs
+V1_At Risk 35-39 yrs
+V1_At Risk 40-44 yrs
+V1_At Risk 45-49 yrs
+V1_At Risk 50-54 yrs
+V1_At Risk 55-59 yrs
+V1_At Risk 60-64 yrs
+V1_At Risk 65-69 yrs
+V1_At Risk 70-74 yrs
+V1_At Risk 75-79 yrs
+V1_At Risk 80+ yrs
+V1_Clinically vulnerable/chronic illness/significant underlying health condition (excluding elderly and disabled)
+V1_Crowded/communal living conditions (dormitories for migrant workers, temporary accommodation)
+V1_Disabled People
+V1_Educators
+V1_Ethnic minorities
+V1_Factory workers
+V1_Frontline retail workers
+V1_Frontline/essential workers (when subcategories not specified)
+V1_General 16-19 yrs
+V1_General 20-24 yrs
+V1_General 25-29 yrs
+V1_General 30-34 yrs
+V1_General 35-39 yrs
+V1_General 40-44 yrs
+V1_General 45-49 yrs
+V1_General 50-54 yrs
+V1_General 55-59 yrs
+V1_General 60-64 yrs
+V1_General 65-69 yrs
+V1_General 70-74 yrs
+V1_General 75-79 yrs
+V1_General 80+ yrs
+V1_Healthcare workers/carers (excluding care home staff)
+V1_Military 
+V1_Other 'high contact' professions/groups (taxi drivers, security guards)
+V1_People living with a vulnerable/shielding person or other priority group
+V1_Police/ first responders
+V1_Pregnant people
+V1_Primary and secondary school students
+V1_Religious/Spiritual Leaders
+V1_Residents in an elderly care home 
+V1_Staff working in an elderly care home
+V1_Tertiary education students
+V1_Notes
+V2_Vaccine Availability (summary)
+V2_0-4 yrs infants
+V2_5-15 yrs young people
+V2_Airport/Border/Airline Staff
+V2_At Risk 16-19 yrs
+V2_At Risk 20-24 yrs
+V2_At Risk 25-29 yrs
+V2_At Risk 30-34 yrs
+V2_At Risk 35-39 yrs
+V2_At Risk 40-44 yrs
+V2_At Risk 45-49 yrs
+V2_At Risk 50-54 yrs
+V2_At Risk 55-59 yrs
+V2_At Risk 60-64 yrs
+V2_At Risk 65-69 yrs
+V2_At Risk 70-74 yrs
+V2_At Risk 75-79 yrs
+V2_At Risk 80+ yrs
+V2_Clinically vulnerable/chronic illness/significant underlying health condition (excluding elderly and disabled)
+V2_Crowded/communal living conditions (dormitories for migrant workers, temporary accommodation)
+V2_Disabled People
+V2_Educators
+V2_Ethnic minorities
+V2_Factory workers
+V2_Frontline retail workers
+V2_Frontline/essential workers (when subcategories not specified)
+V2_General 16-19 yrs
+V2_General 20-24 yrs
+V2_General 25-29 yrs
+V2_General 30-34 yrs
+V2_General 35-39 yrs
+V2_General 40-44 yrs
+V2_General 45-49 yrs
+V2_General 50-54 yrs
+V2_General 55-59 yrs
+V2_General 60-64 yrs
+V2_General 65-69 yrs
+V2_General 70-74 yrs
+V2_General 75-79 yrs
+V2_General 80+ yrs
+V2_Healthcare workers/carers (excluding care home staff)
+V2_Military 
+V2_Other 'high contact' professions/groups (taxi drivers, security guards)
+V2_People living with a vulnerable/shielding person or other priority group
+V2_Police/ first responders
+V2_Pregnant people
+V2_Primary and secondary school students
+V2_Religious/Spiritual Leaders
+V2_Residents in an elderly care home 
+V2_Staff working in an elderly care home
+V2_Tertiary education students
+V2_Notes
+V3_Vaccine Financial Support (summary)
+V3_0-4 yrs infants
+V3_5-15 yrs young people
+V3_Airport/Border/Airline Staff
+V3_At Risk 16-19 yrs
+V3_At Risk 20-24 yrs
+V3_At Risk 25-29 yrs
+V3_At Risk 30-34 yrs
+V3_At Risk 35-39 yrs
+V3_At Risk 40-44 yrs
+V3_At Risk 45-49 yrs
+V3_At Risk 50-54 yrs
+V3_At Risk 55-59 yrs
+V3_At Risk 60-64 yrs
+V3_At Risk 65-69 yrs
+V3_At Risk 70-74 yrs
+V3_At Risk 75-79 yrs
+V3_At Risk 80+ yrs
+V3_Clinically vulnerable/chronic illness/significant underlying health condition (excluding elderly and disabled)
+V3_Crowded/communal living conditions (dormitories for migrant workers, temporary accommodation)
+V3_Disabled People
+V3_Educators
+V3_Ethnic minorities
+V3_Factory workers
+V3_Frontline retail workers
+V3_Frontline/essential workers (when subcategories not specified)
+V3_General 16-19 yrs
+V3_General 20-24 yrs
+V3_General 25-29 yrs
+V3_General 30-34 yrs
+V3_General 35-39 yrs
+V3_General 40-44 yrs
+V3_General 45-49 yrs
+V3_General 50-54 yrs
+V3_General 55-59 yrs
+V3_General 60-64 yrs
+V3_General 65-69 yrs
+V3_General 70-74 yrs
+V3_General 75-79 yrs
+V3_General 80+ yrs
+V3_Healthcare workers/carers (excluding care home staff)
+V3_Military 
+V3_Other 'high contact' professions/groups (taxi drivers, security guards)
+V3_People living with a vulnerable/shielding person or other priority group
+V3_Police/ first responders
+V3_Pregnant people
+V3_Primary and secondary school students
+V3_Religious/Spiritual Leaders
+V3_Residents in an elderly care home 
+V3_Staff working in an elderly care home
+V3_Tertiary education students
+V3_Notes

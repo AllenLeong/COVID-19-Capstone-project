@@ -10,7 +10,7 @@ from sklearn.preprocessing import MinMaxScaler
 import matplotlib.pyplot as plt
 from datetime import datetime as dt
 import import_ipynb
-from Model_dev import  pre_processing
+from Model_dev import pre_processing, data_handling, rmse
 
 social_media = ['like_index','retweet_index']
 covid_cases = ['ConfirmedCases', 'ConfirmedDeaths', 'Daily_cases']
@@ -21,24 +21,24 @@ pred_days = 7
 
 
 
-def data_handling(df, features):
+# def data_handling(df, features):
     
-    #print("##### Reshape and MinMaxScale input #####")       
-    scaler = MinMaxScaler()
+#     #print("##### Reshape and MinMaxScale input #####")       
+#     scaler = MinMaxScaler()
 
-    if 'Daily_cases' not in features:
-        features.append('Daily_cases')
-        df[features] = scaler.fit_transform(df[features])
-        features.remove('Daily_cases')       
-    else:
-        df[features] = scaler.fit_transform(df[features])
+#     if 'Daily_cases' not in features:
+#         features.append('Daily_cases')
+#         df[features] = scaler.fit_transform(df[features])
+#         features.remove('Daily_cases')       
+#     else:
+#         df[features] = scaler.fit_transform(df[features])
     
-    X = df[features]
-    y = df[['Daily_cases']]
-    X, y = pre_processing(X, y, required_days, pred_days, features)
-    x_train, x_test, y_train, y_test = train_test_split(X, y, test_size= 0.1, shuffle=False, stratify = None)
-    #print(x_train.shape, y_train.shape, x_test.shape, y_test.shape)
-    return x_train, x_test, y_train, y_test, scaler
+#     X = df[features]
+#     y = df[['Daily_cases']]
+#     X, y = pre_processing(X, y, required_days, pred_days, features)
+#     x_train, x_test, y_train, y_test = train_test_split(X, y, test_size= 0.1, shuffle=False, stratify = None)
+#     #print(x_train.shape, y_train.shape, x_test.shape, y_test.shape)
+#     return x_train, x_test, y_train, y_test, scaler
 
 
 def draw_graph(y_pred_train, y_pred_test, y_true_train, y_true_test, input_days, output_days, country, features, x_train, algo, Date ,step,save=False):
@@ -49,7 +49,9 @@ def draw_graph(y_pred_train, y_pred_test, y_true_train, y_true_test, input_days,
     y_pred_test = y_pred_test.ravel()
 
     plt.figure(figsize = (14,4))
-    Date = dt.strptime(pd.to_datetime(Date), "%d/%m/%Y")
+    #Date = Date.astype(np.datetime64)
+
+    Date = [dt.strptime(x, "%d/%m/%Y") for x in Date.values]
     plt.plot(Date[input_days:][:len(y_true_train)],y_true_train,label= 'Train Data',linewidth = 3,alpha=.4)
     plt.plot(Date[(len(y_true_train)+input_days):][:len(y_true_test)] ,y_true_test, '--',label ='Test Data',alpha=.4,linewidth = 3)
     
@@ -61,7 +63,7 @@ def draw_graph(y_pred_train, y_pred_test, y_true_train, y_true_test, input_days,
     plt.show()
     
     
-def load_dateset(country,f_flag):
+def load_dateset(country,f_flag, required_days, pred_days):
     filename = "Data/Full_{}.csv".format(country)
     df = pd.read_csv(filename, index_col=0)
     df.set_index('Date', inplace=True)
@@ -76,12 +78,12 @@ def load_dateset(country,f_flag):
     feature_map = dict(P=policy, PC=policy+covid_cases, PCS=policy+covid_cases+social_media)
     features = feature_map[f_flag]
     Date = df.index
-    x_train, x_test, y_train, y_test, scaler = data_handling(df, features)
+    x_train, x_test, y_train, y_test, scaler,features = data_handling(df, features, required_days, pred_days)
     
-    return x_train, x_test, y_train, y_test, Date, scaler
+    return x_train, x_test, y_train, y_test, Date, scaler, features
 
-def load_model_predict(model_path,x_train,x_test,y_train,y_test,step,scaler):
-    loaded_model = models.load_model(model_path)
+def load_model_predict(model_path,x_train,x_test,y_train,y_test,step,scaler,custom_objects=None):
+    loaded_model = models.load_model(model_path,custom_objects=custom_objects,compile=False)
     y_pred_train = loaded_model.predict(x_train)
     y_pred_test = loaded_model.predict(x_test)
     
@@ -103,19 +105,21 @@ def y_inverse_scaler(y, scaler):
     return scaler.inverse_transform(y_tile)[:,-1]
 
 
-def plot_predict(algo,model_path, f_flag,country, required_days = 14, pred_days = 7, step = 0,save=False):
-    x_train, x_test, y_train, y_test, Date, scaler = load_dateset(country,f_flag)
-    y_true_train, y_pred_train, y_true_test, y_pred_test = load_model_predict(model_path,x_train,x_test,y_train,y_test,step,scaler)    
+def plot_predict(algo,model_path, f_flag,country, required_days = 14, pred_days = 7, step = 0,save=False,custom_objects=None):
+    x_train, x_test, y_train, y_test, Date, scaler, features = load_dateset(country,f_flag,required_days, pred_days)
+    y_true_train, y_pred_train, y_true_test, y_pred_test = load_model_predict(model_path,x_train,x_test,y_train,y_test,step,scaler,custom_objects)    
     draw_graph(y_pred_train, y_pred_test, y_true_train, y_true_test, required_days, pred_days, country, f_flag, x_train, algo, Date, step,save)
-     
-def plot_from_dataframe(df_log, index=0, step=0,save = False):
+    
+    
+def plot_from_dataframe(df_log, index=0, step=0,save = False, custom_objects=None):
     algo = df_log.iloc[index,:]['Algorithm']
     model_path = df_log.iloc[index,:]['Model_path']
     f_flag = df_log.iloc[index,:]['Features']
     country = df_log.iloc[index,:]['Country']
     required_days = 14
     pred_days = 7
-    plot_predict(algo,model_path, f_flag, country, required_days, pred_days,step,save)    
+    plot_predict(algo,model_path, f_flag, country, required_days, pred_days,step,save, custom_objects) 
+    return (algo, model_path, f_flag, country)
     
     
     

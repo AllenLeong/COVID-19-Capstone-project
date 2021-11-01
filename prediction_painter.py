@@ -52,10 +52,10 @@ def draw_graph(y_pred_train, y_pred_test, y_true_train, y_true_test, input_days,
     #Date = Date.astype(np.datetime64)
 
     Date = [dt.strptime(x, "%d/%m/%Y") for x in Date.values]
-    plt.plot(Date[input_days:][:len(y_true_train)],y_true_train,label= 'Train Data',linewidth = 3,alpha=.4)
+    plt.plot(Date[input_days:][120:len(y_true_train)],y_true_train[120:],label= 'Train Data',linewidth = 3,alpha=.4)
     plt.plot(Date[(len(y_true_train)+input_days):][:len(y_true_test)] ,y_true_test, '--',label ='Test Data',alpha=.4,linewidth = 3)
     
-    plt.plot(Date[step+input_days:-output_days+1], np.delete(np.append(y_pred_train,y_pred_test), range(-step,-0)), label = 'Prediction')
+    plt.plot(Date[step+input_days+120:-output_days+1], np.delete(np.append(y_pred_train,y_pred_test), range(-step,-0))[120:], label = 'Prediction')
     plt.legend()
     plt.suptitle("{}th day predictions on {}'s daily confirmed cases using {} & {}".format(step+1,country, features, algo), fontsize=18)
     if save:
@@ -82,7 +82,7 @@ def load_dateset(country,f_flag, required_days, pred_days):
     
     return x_train, x_test, y_train, y_test, Date, scaler, features
 
-def load_model_predict(model_path,x_train,x_test,y_train,y_test,step,scaler,custom_objects=None):
+def load_model_predict(model_path,x_train,x_test,y_train,y_test,step,scaler,features,custom_objects=None):
     loaded_model = models.load_model(model_path,custom_objects=custom_objects,compile=False)
     y_pred_train = loaded_model.predict(x_train)
     y_pred_test = loaded_model.predict(x_test)
@@ -92,22 +92,23 @@ def load_model_predict(model_path,x_train,x_test,y_train,y_test,step,scaler,cust
     y_true_test = y_test[:,step,:]
     y_pred_test = y_pred_test[:,step,:]
     
+    label_idx = np.where(np.array(features)=='Daily_cases')[0]
     if scaler is not None:
-        y_true_train = y_inverse_scaler(y_true_train, scaler)
-        y_pred_train = y_inverse_scaler(y_pred_train, scaler)
-        y_true_test = y_inverse_scaler(y_true_test, scaler)
-        y_pred_test = y_inverse_scaler(y_pred_test, scaler)
+        y_true_train = y_inverse_scaler(y_true_train, scaler, label_idx)
+        y_pred_train = y_inverse_scaler(y_pred_train, scaler, label_idx)
+        y_true_test = y_inverse_scaler(y_true_test, scaler, label_idx)
+        y_pred_test = y_inverse_scaler(y_pred_test, scaler, label_idx)
         
     return y_true_train, y_pred_train, y_true_test, y_pred_test
 
-def y_inverse_scaler(y, scaler):
+def y_inverse_scaler(y, scaler,label_idx):
     y_tile = np.tile(y,scaler.n_features_in_)
-    return scaler.inverse_transform(y_tile)[:,-1]
+    return scaler.inverse_transform(y_tile)[:,label_idx]
 
 
 def plot_predict(algo,model_path, f_flag,country, required_days = 14, pred_days = 7, step = 0,save=False,custom_objects=None):
     x_train, x_test, y_train, y_test, Date, scaler, features = load_dateset(country,f_flag,required_days, pred_days)
-    y_true_train, y_pred_train, y_true_test, y_pred_test = load_model_predict(model_path,x_train,x_test,y_train,y_test,step,scaler,custom_objects)    
+    y_true_train, y_pred_train, y_true_test, y_pred_test = load_model_predict(model_path,x_train,x_test,y_train,y_test,step,scaler,features,custom_objects)    
     draw_graph(y_pred_train, y_pred_test, y_true_train, y_true_test, required_days, pred_days, country, f_flag, x_train, algo, Date, step,save)
     
     

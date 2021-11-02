@@ -46,7 +46,7 @@ class GradientInput():
         self.Datey = Date[14:self.X.shape[0]+14+7]
         print(self.algo, model_path, self.f_flag, self.country)
         print("X shape:",self.X.shape, " y shape:",self.y.shape)
-        print('Date Range:{}~{}'.format(self.DateX[0], self.DateX[-1]))
+        print('Date Range:{}~{}'.format(self.DateX[0], self.DateX[-15]))
 
     def gradient_input(self, index, ratio = 0.5, step = 1000, learning_rate = 5e-4,gradient_only=False):
         """
@@ -102,6 +102,15 @@ class GradientInput():
         """
         loss_record = []
         mse = tf.keras.losses.MeanSquaredError()
+        
+        if gradient_only:
+            with tf.GradientTape() as tape:
+                tape.watch(A)
+                Y_hat = self.loaded_model(A)
+                loss = Y_target - Y_hat
+                gradient = tape.gradient(loss,A)
+            return gradient
+        
         for i in tqdm(range(step)):
             with tf.GradientTape() as tape:
                 tape.watch(A)
@@ -116,16 +125,13 @@ class GradientInput():
                 gradient = tape.gradient(loss,A)
                 gradient = gradient.numpy()
                 
-                if gradient_only:
-                    return tf.convert_to_tensor(gradient)
-                
                 if mask_id:
                     for mask in mask_id[0]:
                         gradient[:,:,mask] = np.zeros(gradient.shape[1])
                 gradient = tf.convert_to_tensor(gradient)
                 #plt.imshow(gradient[0,:,:])
                 #sns.heatmap(gradient[0,:,:], linewidth=0.5)
-                A = A+gradient*learning_rate
+                A = A+gradient * learning_rate
                 A = A.numpy()
                 A[A < 0] = 0
                 A = tf.convert_to_tensor(A)
@@ -176,9 +182,11 @@ if __name__ == "__main__":
     parser.add_argument("-g", help="Do gradient", action='store_true')
     parser.add_argument("-p", help="Plot gradient",action='store_true')
     parser.add_argument("-u", help="User Object",action='store_true')
+    parser.add_argument("-o", help="Gradient Only",action='store_true')
     parser.add_argument("--i", help="log file index",type=int)
     parser.add_argument("--r", help="log file index",type=float)
     parser.add_argument("--d", help="Date",type=str)
+    
     args = parser.parse_args()
 
     df_log = pd.read_csv("Log/Models.csv", index_col=0)
@@ -190,6 +198,8 @@ if __name__ == "__main__":
 
     if args.g:
         gradient_trainer = GradientInput(algo, model_path, f_flag, country)
-        gradient_trainer.gradient_input(args.d, ratio = args.r, step = 1000, learning_rate = 5e-4)
+        df_gradient = gradient_trainer.gradient_input(args.d, ratio = args.r, step = 1000, learning_rate = 5e-4, gradient_only = args.o)
+        print(df_gradient)
+        
     if args.p:
         gradient_trainer.plot_guided_input()

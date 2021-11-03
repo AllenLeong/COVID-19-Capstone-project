@@ -1,91 +1,204 @@
-Date,C1_School closing,C2_Workplace closing,C3_Cancel public events,C4_Restrictions on gatherings,C5_Close public transport,C6_Stay at home requirements,C7_Restrictions on internal movement,C8_International travel controls,E1_Income support,E2_Debt/contract relief,E3_Fiscal measures,E4_International support,H1_Public information campaigns,H2_Testing policy,H3_Contact tracing,H4_Emergency investment in healthcare,H5_Investment in vaccines,H6_Facial Coverings,H7_Vaccination policy,H8_Protection of elderly people,V1_Vaccine Prioritisation (summary),V2_Vaccine Availability (summary),V3_Vaccine Financial Support (summary)
-1/1/2021,,,,,,,,,,,L CORRECT,,,,,,,,L,,,L CORRECT,L
-2/1/2021,,,,,,,,,,,L CORRECT,,,,,,,,L,,,L CORRECT,L
-3/1/2021,,,,,,,,,,,L CORRECT,,,,,,,,L,,,L CORRECT,L
-4/1/2021,,,,,,,,,,,L CORRECT,,,,,,,,L,,,L CORRECT,L
-5/1/2021,,,,,,,,,,,L CORRECT,,,,,,,,L,,,L CORRECT,L
-6/1/2021,,,,,,,,,,,L CORRECT,,,,,,,,L,,,L CORRECT,L
-7/1/2021,,,,,,,,,,,L CORRECT,,,,,,,,L,,,L CORRECT,L
-13/3/2021,,,,,,U,,,,,L CORRECT,,,,,,,,L,,L,L,
-14/3/2021,,,,,,U,,,,,L CORRECT,,,,,,,,L,,L,L,
-17/3/2021,,,,,,U,,,,,L CORRECT,,,,,,,,L,,L,L,
-18/3/2021,,,,,,U,,,,,L CORRECT,,,,,,,,L,,L,L,
-19/3/2021,,,,,,U,,,,,L CORRECT,,,,,,,,L,,L,L,
-20/3/2021,,,,,,U,,,,,L CORRECT,,,,,,,,L,,L,L,
-21/3/2021,,,,,,U,,,,,L CORRECT,,,,,,,,L,,L,L,
-22/3/2021,,,,,,U,,,,,L CORRECT,,,,,,,,L,,L,L,
-23/3/2021,,U,U,,,U,,,,,L CORRECT,,,,,,,,L,,L,L,
-24/3/2021,,U,U,,,U,,,,,L CORRECT,,,,,,,,L,,L,L,
-25/3/2021,,U,U,,,U,,,,,L CORRECT,,,,,L,L,,L,,L,L,
-26/3/2021,,U,U,,,U,,,,,L CORRECT,,,,,L,L,,,,L,L,
-27/3/2021,,U,U,,,U,,,,,L,,,,,L,L,,,,L,L,
-28/3/2021,,U,U,,,U,,,,,L,,,,,L,L,,,,L,L,
-31/3/2021,,U,U,,,,U,,,,L,,,,,L,L,,L,,L,L,
-1/4/2021,,U,U,,,,U,,,,U,,,,,L,L,,L,,L,L,
-2/4/2021,,U,U,,,,U,,,,U,,,,,L,L,,L,,L,L,
-3/4/2021,,U,U,,,,U,,,,U,,,,,L,L,,L,,L,L,
-4/4/2021,,U,U,,,,U,,,,U,,,,,L,L,,L,,L,L,
-5/4/2021,,U,U,,,,U,,,,U,,,,,L,L,,L,,,,
-6/4/2021,,U,U,,,,U,,,,U,,,,,L,L,,L,,,,
-7/4/2021,,U,U,,,,U,,,,U,,,,,L,L,,L,,,,
-8/4/2021,,U,U,,,,U,,,,U,,,,,L,L,,L,,,,
-9/4/2021,,U,U,,,,U,,,,U,,,,,L,L,,L,,,,
-4/6/2021,,U,U,,U,U,U,,U,,,,,,,,,U,,U,,L,
-18/6/2021,,L,L,,U,U,L CORRECT,U,,,,,,,,,,U,,U,U,U,U
-19/6/2021,,L,L,,,,L CORRECT,U,,,,,,,,,,,,,U,U,U CORRECT
-20/6/2021,,L,L,,,,L CORRECT,U,,,,,,,,,,,,,U,U,U CORRECT
-21/6/2021,,L,L,,,,L CORRECT,U,,,,,,,,,,,,,U,U,U CORRECT
-22/6/2021,,L,L,,,,L CORRECT,U,,,,,,,,,,,,,U,U,U CORRECT
-23/6/2021,,L,L,,,,L CORRECT,U,,,,,,,,,,,,,U,U,U CORRECT
-24/6/2021,,L,L,,,,L CORRECT,U,,,,,,,,,,,,,U,U,U CORRECT
-25/6/2021,,L,L,,,,L CORRECT,U,,,,,,,,,,,,,U,U,U
-26/6/2021,,L,L,,,,L CORRECT,U,,,,,,,,,,,,,U,U,U
-27/6/2021,,L,L,,,,L CORRECT,U,,,,,,,,,,,,,U,U,U
-29/6/2021,,L,L,,,,L CORRECT,U,,,,,,,,,,,,L,U,U,U
-30/6/2021,,L,L,,,,L CORRECT,U,,,,,,,,,,,,L,U,U,U
-1/7/2021,,L,L,,,,L CORRECT,L,,,,,,,,,,,,L,U,U,U
-2/7/2021,,L,L,,,,L CORRECT,L,,,,,,,,,,,,L,U,U,U
-3/7/2021,,L,L,,,,L CORRECT,L,,,,,,,,,,,,L,U,U,U CORRECT
-4/7/2021,,L,L,,,,L CORRECT,L,,,,,,,,,,,,L,U,,
-5/7/2021,,L,L,,,,L CORRECT,L,,,,,,,,,,,,L,U,,
-6/7/2021,,L,L,,,,L CORRECT,L,,,,,,,,,,,,L,U,,
-7/7/2021,,L,L,,,,L CORRECT,L,,,,,,,,,,,,L,U,,
-8/7/2021,,L,L,U CORRECT,,,L CORRECT,L,,,,,,,,,,,,L,U,,
-9/7/2021,,,,U CORRECT,,,L CORRECT,L,,,,,,,,,,,,L,U,,
-10/7/2021,,U,U,U CORRECT,,,L CORRECT,L,,,,,,,,,,,,L,U,,
-11/7/2021,,U,U,U CORRECT,,,,L,,,,,,,,,,,,L,,,
-12/7/2021,,U,U,U CORRECT,,,,L,,,,,,,,,,,,L,,,
-13/7/2021,,U,U,U CORRECT,,,,L,,,,,,,,,,,,L,,,
-14/7/2021,,U,U,U CORRECT,,,,L,,,,,,,,,,,,L,,,
-15/7/2021,,U,U,U CORRECT,,,,L,,,,,,,,,,,,L,,,
-16/7/2021,,U,U,U CORRECT,,,,L,,,,,,,,,,,,L,,,
-17/7/2021,,U,U,U CORRECT,,,,L,,,,,,,,,,,,L CORRECT,,,
-18/7/2021,,U,U,U CORRECT,,,,,,,,,,,,,,,,L,,,
-19/7/2021,,U,U,U CORRECT,,,,,,,,,,,,,,,,L,,,
-20/7/2021,,U CORRECT,U CORRECT,U CORRECT,,,,,,,,,,,,,,,,L CORRECT,,,
-21/7/2021,,U,U,U CORRECT,,,,,,,,,,,,,,,,L,,,
-22/7/2021,,U,U,U CORRECT,,,,,,,,,,,,,,,,L,,,
-23/7/2021,,U,U,U CORRECT,,,,,,,,,,,,,,,,L,,,
-24/7/2021,,U,U,U CORRECT,,,,,,,,,,,,,,,,L CORRECT,,,
-25/7/2021,,U,U,U CORRECT,,,,,,,,,,,,,,,,L,,,
-26/7/2021,,U,U,U CORRECT,,,,,,,,,,,,,,,,U,,,
-27/7/2021,,U,U,U CORRECT,,,,,,,,,,,,,,,,U,,,
-28/7/2021,,U,U,U CORRECT,,,,,,,,,,,,,,,,U,,,
-29/7/2021,,U,U,U CORRECT,,,,,,,,,,,,,,,,U,,,
-30/7/2021,,U,U,U CORRECT,,,,,,,,,,,,,,,,U,,,
-31/7/2021,,U,U,U CORRECT,,,,,,,,,,,,,,,,U,,,
-1/8/2021,,U,U,U CORRECT,,,,,,U,,,,,,,,,,U,,,
-2/8/2021,,U,U,U CORRECT,,,,,,U,,,,,,,,,,U,,,
-3/8/2021,,U,U,U CORRECT,,,,,,U,,,,,,,,,,U,,,
-4/8/2021,,,,,,,,,,U,,,,,,,,,,U,,,
-5/8/2021,,,,,,,,,,U,,,,,,,,,,U,,,
-6/8/2021,,,,,,,,,,U,,,,,,,,,,U,,,
-7/8/2021,,,,,,,,,,U CORRECT,,,,,,,,,,U,,,
-8/8/2021,,,,,,,,,,U,,,,,,,,,,U,,,
-9/8/2021,,,,,,,,,,U,,,,,,,,,,U,,,
-10/8/2021,,L,,L,,,,,,U,,,,,,,,,,U,,,
-11/8/2021,,L,,L,,,,,,U,,,,,,,,,,U,,,
-12/8/2021,,L,,L,,,,,,U,,,,,,,,,,U,,,
-13/8/2021,,L,,L,,,,,,U CORRECT,,,,,,,,,,U,,,
-14/8/2021,,L,,L,,,,,,U CORRECT,,,,,,,,,,U,,,
-15/8/2021,,L,,L,,,,,,,,,,,,,,,,U,,,
+Date,Decreased?,C1_School closing,C2_Workplace closing,C3_Cancel public events,C4_Restrictions on gatherings,C5_Close public transport,C6_Stay at home requirements,C7_Restrictions on internal movement,C8_International travel controls,E1_Income support,E2_Debt/contract relief,E3_Fiscal measures,E4_International support,H1_Public information campaigns,H2_Testing policy,H3_Contact tracing,H4_Emergency investment in healthcare,H5_Investment in vaccines,H6_Facial Coverings,H7_Vaccination policy,H8_Protection of elderly people,V1_Vaccine Prioritisation (summary),V2_Vaccine Availability (summary),V3_Vaccine Financial Support (summary),Decreased
+15/6/2020,,,UMatched,,,,,,,,,,,,,,,U,,,,,,,1.0
+16/6/2020,,,UMatched,,,,,,,,,,,,,,,U,,,,,,,1.0
+17/6/2020,,,UMatched,,,,,,,,,,,,,,,U,,,,,,,1.0
+18/6/2020,,,UMatched,,,,,,,,,,,,,,,U,,,,,,,1.0
+19/6/2020,,,UMatched,,,,,,,,,,,,,,,U,,,,,,,1.0
+20/6/2020,,,UMatched,,,,,,,,,,,,,,,U,,,,,,,1.0
+21/6/2020,,,UMatched,,,,,,,,,,,,,,,U,,,,,,,1.0
+22/6/2020,,,UMatched,,,,,,,,,,,,,,,U,,,,,,,1.0
+23/6/2020,,,UMatched,,,,,,,,,,,,,,,U,,,,,,,1.0
+24/6/2020,,,UMatched,,,,,,,,,,,,,,,U,,,,,,,1.0
+25/6/2020,,,UMatched,,,,,,,,,,,,,,,U,,,,,,,1.0
+26/6/2020,,,UMatched,,,,,,,,,,,,,,,U,,,,,,,1.0
+27/6/2020,,,UMatched,,,,,,,,,,,,,,,U,,,,,,,1.0
+28/6/2020,,,UMatched,,,,,,,,,,,,,,,U,,,,,,,1.0
+29/6/2020,,,UMatched,,,,,,,,,,,,,,,U,,,,,,,1.0
+30/6/2020,,,UMatched,,,,,,,,,,,,,,,U,,,,,,,1.0
+1/7/2020,,,UMatched,,,,,,,,,,,,,,,,L,,,,,,1.0
+2/7/2020,,,UMatched,,,,,,,,,,,,,,,,L,,,,,,1.0
+3/7/2020,,,UMatched,,,,,,,,,,,,,,,,L,,,,,,1.0
+4/7/2020,,,UMatched,,,,,,,,,,,,,,,,L,,,,,,1.0
+5/7/2020,,,UMatched,,,,,,,,,,,,,,,,L,,,,,,1.0
+6/7/2020,,,UMatched,,,,,,,,,,,,,,,,L,,,,,,1.0
+7/7/2020,,,UMatched,,,,,,,,,,,,,,,L,L,,,,,,1.0
+8/7/2020,,,UMatched,,,,,,,,,,,,,,,L,L,,,,,,1.0
+9/7/2020,,,UMatched,,,,,,,,,,,,,,,L,L,,,,,,1.0
+10/7/2020,,,UMatched,,,,,,,,,,,,,,,L,L,,,,,,1.0
+11/7/2020,,,UMatched,,,,,,,,,,,,,,,L,L,,,,,,1.0
+29/7/2020,,,,,,,U,,,,,,L,,,,,LMatched,,,,,,,0.0
+31/7/2020,,,,,,,U,,,,,,L,,,,,LMatched,,,,,,,0.0
+2/8/2020,,,,,,,U,,,,,,L,,,,,LMatched,,,,,,,0.0
+12/9/2020,,,,,UMatched,,U,,,,,,,,,,U,U,,,,,,,1.0
+13/9/2020,,,,,UMatched,,U,,,,,,,,,,U,U,,,,,,,1.0
+14/9/2020,,,,,UMatched,,U,,,,,,,,,,U,U,,,,,,,1.0
+15/9/2020,,,,,UMatched,,U,,,,,,,,,,U,,,,,,,,1.0
+16/9/2020,,,,,UMatched,,U,,,,,,,,,,U,,,,,,,,1.0
+17/9/2020,,,,,UMatched,,U,,,,,,,,,,U,,,,,,,,1.0
+18/9/2020,,,,,UMatched,,U,,,,,,,,,,U,,,,,,,,1.0
+19/9/2020,,,,,UMatched,,U,,,,,,,,,,U,,,,,,,,1.0
+20/9/2020,,,,,UMatched,,U,,,,,,,,,,U,,,,,,,,1.0
+21/9/2020,,,,,UMatched,,U,,,,,,,,,,U,,,,,,,,0.0
+22/9/2020,,,,,UMatched,,U,,,,,,,,,,U,,,,,,,,0.0
+23/9/2020,,,,,UMatched,,U,,,,,,,,,,U,,,,,,,,0.0
+24/9/2020,,,,,UMatched,,U,,,,,,,,,,U,,,,,,,,0.0
+25/9/2020,,,,,UMatched,,U,,,,,,,,,,U,,,,,,,,0.0
+26/9/2020,,,,,UMatched,,U,,,,,,,,,,U,,,,,,,,0.0
+27/9/2020,,,,,UMatched,,U,,,,,,,,,,,,,,,,,,0.0
+28/9/2020,,,,,UMatched,,U,,,,,,,,,,,,,,,,,,1.0
+29/9/2020,,,,,UMatched,,U,,,,,,,,,,,,,,,,,,1.0
+30/9/2020,,,,,UMatched,,U,,,,,,,,,,,,,,,,,,1.0
+1/10/2020,,,,,UMatched,,U,,,,,,,,,,,,,,,,,,1.0
+2/10/2020,,,,,UMatched,,U,,,,,,,,,,,,,,,,,,1.0
+3/10/2020,,,,,UMatched,,U,,,,,,,,,,,,,,,,,,1.0
+4/10/2020,,,,,UMatched,,U,,,,,,,,,,,,,,,,,,1.0
+5/10/2020,,,,,UMatched,,U,,,,,,,,,,,,,,,,,,1.0
+6/10/2020,,,,,UMatched,,U,,,,,,,,,,,,,,,,,,1.0
+7/10/2020,,,,,UMatched,,U,,,,,,,,,,,,,,,,,,1.0
+8/10/2020,,,,,UMatched,,U,,,,,,,,,,,,,,,,,,1.0
+26/10/2020,,,,,,,LMatched,,,,,,,,,,,,,,,,,,1.0
+27/10/2020,,,,,,,LMatched,,,,,,,,,,,,,,,,,,1.0
+28/10/2020,,,,,,,LMatched,,,,,,,,,,,,,,,,,,1.0
+29/10/2020,,,,,,,LMatched,,,,,,,,,,,,,,,,,,1.0
+30/10/2020,,,,,,,LMatched,,,,,,,,,,,,,,,,,,1.0
+31/10/2020,,,,,,,LMatched,,,,,,,,,,,,,,,,,,1.0
+1/11/2020,,,,,,,LMatched,,,,,,,,,,,,,,,,,,1.0
+13/11/2020,,,,,,LMatched,U,,,,,,,,,,,,,,,,,,1.0
+14/11/2020,,,,,,LMatched,U,,,,,,,,,,,,,,,,,,1.0
+15/11/2020,,,,,,LMatched,U,,,,,,,,,,,,,,,,,,1.0
+16/11/2020,,,L,,L,LMatched,U,,,,,,,,,,,,,,,,,,1.0
+17/11/2020,,,L,,L,LMatched,U,,,,,,,,,,,,,,,,,,1.0
+18/11/2020,,,L,,L,LMatched,U,,,,,,,,,,,,,,,,,,1.0
+19/11/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,,,,0.0
+20/11/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,,,,0.0
+21/11/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,,,,0.0
+22/11/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,,,,0.0
+23/11/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,,,,0.0
+24/11/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,,,,0.0
+25/11/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,,,,0.0
+26/11/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,,,,1.0
+27/11/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,,,,1.0
+28/11/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,,,,1.0
+29/11/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,,,,1.0
+30/11/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,,,,1.0
+1/12/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,L,,,1.0
+2/12/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,L,,,1.0
+3/12/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,L,,,1.0
+4/12/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,L,,,1.0
+5/12/2020,,,L,,L,LMatched,LMatched,,,,,,,,,,,,,,,L,,,1.0
+6/12/2020,,,L,,L,,LMatched,,,,,,,,,,,,,,,L,,,1.0
+7/12/2020,,,,,L,,LMatched,,,,,,,,,,,,,,,L,,,1.0
+8/12/2020,,,UMatched,,L,,LMatched,,,,,,,,,,,,,,,L,,,1.0
+9/12/2020,,,UMatched,,L,,LMatched,,,,,,,,,,,,,,,L,,,1.0
+10/12/2020,,,UMatched,,L,,LMatched,,,,,,,,,,,,,,,L,,,1.0
+11/12/2020,,,UMatched,,L,,LMatched,,,,,,,,,,,,,,,L,,,1.0
+12/12/2020,,,UMatched,,L,,LMatched,,,,,,,,,,,,,,,L,,,1.0
+13/12/2020,,,UMatched,,,,,,,,,,,,,,,,,,,L,,,1.0
+14/12/2020,,,UMatched,,,,,,,,,,,,,,,,,L,,L,LMatched,L,1.0
+15/12/2020,,,UMatched,,,,,,,,,,,,,,,,,L,,L,LMatched,L,1.0
+16/12/2020,,,UMatched,,,,,,,,,,,,,,,,,L,,L,LMatched,L,0.0
+17/12/2020,,,UMatched,,,,,,,,,,,,,,,,,L,,L,LMatched,L,0.0
+18/12/2020,,,UMatched,,,,,,,,,,,,,,,,,L,,L,LMatched,L,0.0
+19/12/2020,,,UMatched,,,,,,,,,,,,,,,,,L,,L,LMatched,L,0.0
+20/12/2020,,,UMatched,,,,,,,,,,,,,,,,,L,,L,LMatched,L,0.0
+21/12/2020,,,UMatched,,,,,,,,,,,,,,,,,L,,L,LMatched,L,0.0
+22/12/2020,,,UMatched,,,,,,,,,,,,,,,,,L,,L,LMatched,L,0.0
+23/12/2020,,,UMatched,,,,,,,,,,,,,,,,,L,,L,LMatched,L,0.0
+24/12/2020,,,UMatched,,,,,,,,,,,,,,,,,L,,L,LMatched,L,0.0
+25/12/2020,,,UMatched,,,,,,,,,,,,,,,,,L,,L,LMatched,L,1.0
+26/12/2020,,,UMatched,,,,,,,,,,,,,,,,,L,,L,LMatched,L,1.0
+27/12/2020,,,UMatched,,,,,,,,,LMatched,,,,,,,,L,,L,LMatched,L,1.0
+28/12/2020,,,UMatched,,,,,,,,,LMatched,,,,,,,,L,,,LMatched,L,1.0
+29/12/2020,,,,,,,,,,,,LMatched,,,,,,,,L,,,LMatched,L,1.0
+30/12/2020,,,,,,,,,,,,LMatched,,,,,,,,L,,,LMatched,L,1.0
+31/12/2020,,,,,,,,,,,,LMatched,,,,,,,,L,,,LMatched,L,1.0
+1/1/2021,,,,,,,,,,,,LMatched,,,,,,,,L,,,LMatched,L,1.0
+2/1/2021,,,,,,,,,,,,LMatched,,,,,,,,L,,,LMatched,L,1.0
+3/1/2021,,,,,,,,,,,,LMatched,,,,,,,,L,,,LMatched,L,1.0
+4/1/2021,,,,,,,,,,,,LMatched,,,,,,,,L,,,LMatched,L,1.0
+5/1/2021,,,,,,,,,,,,LMatched,,,,,,,,L,,,LMatched,L,1.0
+6/1/2021,,,,,,,,,,,,LMatched,,,,,,,,L,,,LMatched,L,1.0
+7/1/2021,,,,,,,,,,,,LMatched,,,,,,,,L,,,LMatched,L,1.0
+8/1/2021,,,,,,,,,,,,LMatched,,,,,,,,L,,,LMatched,L,0.0
+9/1/2021,,,,,,,,,,,,LMatched,,,,,,,,L,,,LMatched,L,0.0
+10/1/2021,,,,,,,,,,,,LMatched,,,,,,,,,,,,,0.0
+11/1/2021,,,,,,,,,,,,LMatched,,,,,,,,,,,,,0.0
+12/1/2021,,,,,,,,,,,,LMatched,,,,,,,,,,,,,0.0
+13/1/2021,,,,,,,,,,,,LMatched,,,,,,,,,,,,,0.0
+14/1/2021,,,,,,,,,,,,LMatched,,,,,,,,,,,,,0.0
+15/1/2021,,,,,,,,,,,,LMatched,,,,,,,,,,,,,0.0
+11/3/2021,,,,,,,U,,,,,LMatched,,,,,,,,L,,L,L,,0.0
+12/3/2021,,,,,,,U,,,,,LMatched,,,,,,,,L,,L,L,,0.0
+13/3/2021,,,,,,,U,,,,,LMatched,,,,,,,,L,,L,L,,1.0
+14/3/2021,,,,,,,U,,,,,LMatched,,,,,,,,L,,L,L,,1.0
+15/3/2021,,,,,,,U,,,,,LMatched,,,,,,,,L,,L,L,,0.0
+16/3/2021,,,,,,,U,,,,,LMatched,,,,,,,,L,,L,LMatched,,0.0
+17/3/2021,,,,,,,U,,,,,LMatched,,,,,,,,L,,L,L,,1.0
+18/3/2021,,,,,,,U,,,,,LMatched,,,,,,,,L,,L,L,,1.0
+19/3/2021,,,,,,,U,,,,,LMatched,,,,,,,,L,,L,L,,1.0
+20/3/2021,,,,,,,U,,,,,LMatched,,,,,,,,L,,L,L,,1.0
+21/3/2021,,,,,,,U,,,,,LMatched,,,,,,,,L,,L,L,,1.0
+22/3/2021,,,,,,,U,,,,,LMatched,,,,,,,,L,,L,L,,1.0
+23/3/2021,,,U,U,,,U,,,,,LMatched,,,,,,,,L,,L,L,,1.0
+24/3/2021,,,U,U,,,U,,,,,LMatched,,,,,,,,L,,L,L,,1.0
+25/3/2021,,,U,U,,,U,,,,,LMatched,,,,,L,L,,L,,L,L,,1.0
+26/3/2021,,,U,U,,,U,,,,,LMatched,,,,,L,L,,,,L,L,,1.0
+9/5/2021,,,,,,,LMatched,U,,U,,,,,,,,,,L,,,,,0.0
+10/5/2021,,,,,,,LMatched,U,,U,,,,,,,,,,L,,,L,,0.0
+11/5/2021,,,,,,,LMatched,U,,U,,,,,,,,,,L,,,L,,0.0
+27/5/2021,,,U,U,,U,LMatched,U,,U,,,,,,,,,U,L,U,,L,,0.0
+28/5/2021,,,U,U,,U,LMatched,U,,U,,,,,,,,,U,L,U,,L,,0.0
+14/6/2021,,,U,U,,U,U,LMatched,U,,,,,,,,,,U,,U,U,U,U,0.0
+15/6/2021,,,,,,U,U,LMatched,U,,,,,,,,,,U,,U,U,U,U,0.0
+16/6/2021,,,L,L,,U,U,LMatched,U,,,,,,,,,,U,,U,U,U,U,0.0
+17/6/2021,,,L,L,,U,U,LMatched,U,,,,,,,,,,U,,U,U,U,U,0.0
+18/6/2021,,,L,L,,U,U,LMatched,U,,,,,,,,,,U,,U,U,U,U,1.0
+19/6/2021,,,L,L,,,,LMatched,U,,,,,,,,,,,,,U,U,UMatched,1.0
+20/6/2021,,,L,L,,,,LMatched,U,,,,,,,,,,,,,U,U,UMatched,1.0
+21/6/2021,,,L,L,,,,LMatched,U,,,,,,,,,,,,,U,U,UMatched,1.0
+22/6/2021,,,L,L,,,,LMatched,U,,,,,,,,,,,,,U,U,UMatched,1.0
+23/6/2021,,,L,L,,,,LMatched,U,,,,,,,,,,,,,U,U,UMatched,1.0
+24/6/2021,,,L,L,,,,LMatched,U,,,,,,,,,,,,,U,U,UMatched,1.0
+25/6/2021,,,L,L,,,,LMatched,U,,,,,,,,,,,,,U,U,U,1.0
+26/6/2021,,,L,L,,,,LMatched,U,,,,,,,,,,,,,U,U,U,1.0
+27/6/2021,,,L,L,,,,LMatched,U,,,,,,,,,,,,,U,U,U,1.0
+28/6/2021,,,L,L,,,,LMatched,U,,,,,,,,,,,,,U,U,U,0.0
+29/6/2021,,,L,L,,,,LMatched,U,,,,,,,,,,,,L,U,U,U,1.0
+30/6/2021,,,L,L,,,,LMatched,U,,,,,,,,,,,,L,U,U,U,1.0
+1/7/2021,,,L,L,,,,LMatched,L,,,,,,,,,,,,L,U,U,U,1.0
+2/7/2021,,,L,L,,,,LMatched,L,,,,,,,,,,,,L,U,U,U,1.0
+3/7/2021,,,L,L,,,,LMatched,L,,,,,,,,,,,,L,U,U,UMatched,1.0
+4/7/2021,,,L,L,,,,LMatched,L,,,,,,,,,,,,L,U,,,1.0
+5/7/2021,,,L,L,,,,LMatched,L,,,,,,,,,,,,L,U,,,1.0
+6/7/2021,,,L,L,,,,LMatched,L,,,,,,,,,,,,L,U,,,1.0
+7/7/2021,,,L,L,,,,LMatched,L,,,,,,,,,,,,L,U,,,1.0
+8/7/2021,,,L,L,UMatched,,,LMatched,L,,,,,,,,,,,,L,U,,,1.0
+9/7/2021,,,,,UMatched,,,LMatched,L,,,,,,,,,,,,L,U,,,1.0
+10/7/2021,,,U,U,UMatched,,,LMatched,L,,,,,,,,,,,,L,U,,,1.0
+11/7/2021,,,U,U,UMatched,,,,L,,,,,,,,,,,,L,,,,1.0
+12/7/2021,,,U,U,UMatched,,,,L,,,,,,,,,,,,L,,,,1.0
+13/7/2021,,,U,U,UMatched,,,,L,,,,,,,,,,,,L,,,,1.0
+14/7/2021,,,U,U,UMatched,,,,L,,,,,,,,,,,,L,,,,1.0
+15/7/2021,,,U,U,UMatched,,,,L,,,,,,,,,,,,L,,,,1.0
+16/7/2021,,,U,U,UMatched,,,,L,,,,,,,,,,,,L,,,,1.0
+17/7/2021,,,U,U,UMatched,,,,L,,,,,,,,,,,,LMatched,,,,1.0
+18/7/2021,,,U,U,UMatched,,,,,,,,,,,,,,,,L,,,,1.0
+19/7/2021,,,U,U,UMatched,,,,,,,,,,,,,,,,L,,,,1.0
+20/7/2021,,,UMatched,UMatched,UMatched,,,,,,,,,,,,,,,,LMatched,,,,1.0
+21/7/2021,,,U,U,UMatched,,,,,,,,,,,,,,,,L,,,,1.0
+22/7/2021,,,U,U,UMatched,,,,,,,,,,,,,,,,L,,,,1.0
+23/7/2021,,,U,U,UMatched,,,,,,,,,,,,,,,,L,,,,1.0
+24/7/2021,,,U,U,UMatched,,,,,,,,,,,,,,,,LMatched,,,,1.0
+25/7/2021,,,U,U,UMatched,,,,,,,,,,,,,,,,L,,,,1.0
+26/7/2021,,,U,U,UMatched,,,,,,,,,,,,,,,,U,,,,1.0
+27/7/2021,,,U,U,UMatched,,,,,,,,,,,,,,,,U,,,,1.0
+28/7/2021,,,U,U,UMatched,,,,,,,,,,,,,,,,U,,,,1.0
+29/7/2021,,,U,U,UMatched,,,,,,,,,,,,,,,,U,,,,1.0
+30/7/2021,,,U,U,UMatched,,,,,,,,,,,,,,,,U,,,,1.0
+31/7/2021,,,U,U,UMatched,,,,,,,,,,,,,,,,U,,,,1.0
+1/8/2021,,,U,U,UMatched,,,,,,U,,,,,,,,,,U,,,,1.0
+2/8/2021,,,U,U,UMatched,,,,,,U,,,,,,,,,,U,,,,1.0
+3/8/2021,,,U,U,UMatched,,,,,,U,,,,,,,,,,U,,,,1.0
+7/8/2021,,,,,,,,,,,UMatched,,,,,,,,,,U,,,,1.0
+13/8/2021,,,L,,L,,,,,,UMatched,,,,,,,,,,U,,,,1.0
+14/8/2021,,,L,,L,,,,,,UMatched,,,,,,,,,,U,,,,1.0

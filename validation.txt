@@ -1,0 +1,2 @@
+Gradient dataframe -> policy 14 days average/max/min -> trend of policy
+Top 3 policies
